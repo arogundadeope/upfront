@@ -1,0 +1,8 @@
+[
+ {"id":"p1","text":"When you need care, you don't know where to go or what it will cost."},
+ {"id":"p2","text":"The prices exist. By law, every hospital publishes what it charges, for every service and every insurer. But each one posts a huge file on its own website, in its own format. Many are buried or broken. And the price you pay depends on the hospital, the insurer and the plan. The information is public. Almost nobody can use it."},
+ {"id":"p3","text":"Upfront makes it usable. Describe what happened in your own words. Say you broke your arm and you're paying cash. Pine's agent works out how a hospital would bill that, and reads every nearby hospital's published prices."},
+ {"id":"p4","text":"One recommendation. UCSF, about three thousand dollars. And every other hospital for comparison. The same broken arm is seven thousand two miles away."},
+ {"id":"p5","text":"When a hospital's file is somewhere a program can't reach, Pine's agent opens the website, finds it, and downloads it. The answer updates."},
+ {"id":"p6","text":"Every number is a price the hospital published. Now you can see it before you go."}
+]

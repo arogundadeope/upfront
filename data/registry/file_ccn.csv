@@ -1,0 +1,42 @@
+file_id,ccn,how
+ucsfhealth.org/106010776_ucsf-medical-center_standardcharges.json,050454,override:ucsf-medical-center
+sutterhealth.org/940562680-1740348929_california-pacific-medical-center-van-ness-campus_standardcharges.csv,050047,override:van-ness
+chinesehospital-sf.org/940382780_chinese-hospital-association_standardcharges.csv,050407,override:chinese-hospital
+adventisthealth.org/941279779_st-helena-hospital_standardcharges.csv,050013,override:st-helena
+ahmchealth.com/PricingTransparency-Seton_Medical_Center-3332-20260331190057.csv,050289,override:seton
+ahmchealth.com/PricingTransparency-Seton_Medical_Center_-_Coastside-3333-20260331195524.csv,,duplicate of ahmchealth.com/PricingTransparency-Seton_Medical_Center-3332-20260331190057.csv
+cchealth.org/946000509_contra-costa-regional-medical-center_standardcharges.csv,050276,override:contra-costa-regional
+commonspirit.org/815009488-1568646735_dignity-community-care_standardcharges.json,050197,override:dignity-community-care
+elcaminohealth.org/943167314_el-camino-hospital_standardcharges.json,050308,name:1.00
+goodsamsanjose.com/62-1763090_GOOD-SAMARITAN-HOSPITAL_standardcharges.json,050380,override:good-samaritan
+mymarinhealth.org/942823538_MarinHealth-Medical-Center_standardcharges.csv,050360,override:marinhealth
+northbay.org/941458282_northbay-medical-center_standardcharges.csv,050367,override:northbay-medical
+northbay.org/941458282_northbay-vacavalley-hospital_standardcharges.csv,,duplicate of northbay.org/941458282_northbay-medical-center_standardcharges.csv
+providence.org/814791043_providence-queen-of-the-valley-medical-center_standardcharges.json,050009,override:queen-of-the-valley
+providence.org/814791043_providence-santa-rosa-memorial-hospital_standardcharges.json,050174,override:santa-rosa-memorial
+providence.org/852390012_healdsburg-hospital_standardcharges.json,,unmatched
+providence.org/852390012_petaluma-valley-hospital_standardcharges.json,050136,override:petaluma
+smchealth.org/946000532_san-mateo-medical-center_standardcharges.csv,050113,override:san-mateo-medical
+sonomavalleyhospital.org/946001317_sonoma-valley-health-care-district_standardcharges.csv,050090,override:sonoma-valley
+stanfordchildrens.org/770003859-lucile-salter-packard-childrens-hospital-at-stanford-standardcharges.json,053305,override:packard
+stanfordhealthcare.org/941429628_stanford-health-care---tri-valley_standardcharges.json,050283,override:tri-valley
+stanfordhealthcare.org/946174066_stanford-health-care_standardcharges.json,050441,override:stanford-health-care_
+strosehospital.org/941668344_hayward-sisters-hospital-_standardcharges.csv,050002,override:hayward-sisters
+sutterhealth.org/940562680-1043670334_mills-peninsula-medical-center_standardcharges.csv,050007,override:mills-peninsula
+sutterhealth.org/940562680-1063812907_eden-medical-center_standardcharges.csv,050488,override:eden-medical
+sutterhealth.org/940562680-1104059153_novato-community-hospital_standardcharges.csv,050131,override:novato
+sutterhealth.org/940562680-1194171371_alta-bates-summit-medical-center-hawthorne-campus_standardcharges.csv,050043,override:hawthorne
+sutterhealth.org/940562680-1295181477_alta-bates-summit-medical-center-summit-campus_standardcharges.csv,,duplicate of sutterhealth.org/940562680-1194171371_alta-bates-summit-medical-center-hawthorne-campus_standardcharges.csv
+sutterhealth.org/940562680-1447604814_alta-bates-summit-medical-center-herrick-campus_standardcharges.csv,050305,override:herrick
+sutterhealth.org/940562680-1467808659_sutter-delta-medical-center_standardcharges.csv,050523,override:sutter-delta
+sutterhealth.org/940562680-1639523004_alta-bates-summit-medical-center-alta-bates-campus_standardcharges.csv,,duplicate of sutterhealth.org/940562680-1447604814_alta-bates-summit-medical-center-herrick-campus_standardcharges.csv
+sutterhealth.org/940562680-1659439834_california-pacific-medical-center-davies-campus_standardcharges.csv,050008,override:davies
+sutterhealth.org/940562680-1730238007_california-pacific-medical-center-mission-bernal-campus_standardcharges.csv,050055,override:mission-bernal
+sutterhealth.org/940562680-1740413798_sutter-santa-rosa-regional-hospital_standardcharges.csv,050291,override:sutter-santa-rosa
+sutterhealth.org/941156621-1366686248_sutter-solano-medical-center_standardcharges.csv,050101,override:sutter-solano
+ucsfbenioffchildrens.org/106381154_ucsf-benioff-childrens-oakland_standardcharges.json,053301,override:oakland
+ucsfhealth.org/106010776_ucsf-langely-porter-psychiatic-hospital_standardcharges.json,,unmatched
+whhs.com/946030667_washington-township-hospital-district_standardcharges.csv,050195,override:washington
+zuckerbergsanfranciscogeneral.org/946000417_priscilla-chan-&-mark-zuckerberg-san-francisco-general-hospital-&-trauma-center_standardcharges.csv,050228,override:zuckerberg
+saintfrancismemorial.org/ucsf_health_saint_francis_hospital_standardcharges.json,050152,override:saint_francis
+saintfrancismemorial.org/ucsf_health_st_marys_hospital_standardcharges.json,050457,override:st_marys

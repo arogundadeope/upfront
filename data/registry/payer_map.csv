@@ -1,0 +1,932 @@
+payer_name,plan_name,insurer,product,line_of_business,rows
+Blue Shield,COMM,Blue Shield of California,ANY,commercial,271206
+Blue Shield,EPN,Blue Shield of California,ANY,exchange,271206
+United,AllPayerAppendix,UnitedHealthcare,ANY,commercial,142335
+Cigna,PPO,Cigna,PPO,commercial,118720
+Cigna,LocalPlus,Cigna,ANY,commercial,117695
+Aetna,HMO,Aetna,HMO,commercial,102308
+CIGNA,HMO,Cigna,HMO,commercial,101152
+CIGNA,POS,Cigna,POS,commercial,101152
+Aetna,PPO,Aetna,PPO,commercial,94789
+Aetna,AWH,Aetna,ANY,commercial,94703
+Anthem,ExchangeEPO,Anthem Blue Cross,ANY,commercial,90258
+Anthem,BlueConnection,Anthem Blue Cross,ANY,commercial,90258
+Anthem,COMM,Anthem Blue Cross,ANY,commercial,90258
+Santa Clara Family Health Plan,Medicaid,Santa Clara Family Health Plan,ANY,medicaid,78999
+Anthem,Medicare Adv_ Hmo / Ppo,Anthem Blue Cross,"PPO,HMO",medicare_advantage,78391
+MultiPlan,Primary,MultiPlan / PHCS,ANY,commercial,78139
+Health Net,COMM,Health Net,ANY,commercial,71996
+Multiplan,Commercial|All Plans,MultiPlan / PHCS,ANY,commercial,66930
+Healthsmart,Commercial|All Plans,Healthsmart,ANY,commercial,66930
+KAISER  MEDI-CAL MC [410],KAISER MEDI-CAL MC [410002],Kaiser,ANY,medicaid,65491
+BLUE SHIELD [345],BLUE SHIELD PPO [345001],Blue Shield of California,PPO,commercial,65350
+HEALTHNET [265],HEALTHNET HMO [265001],Health Net,HMO,commercial,65347
+UNITED HEALTHCARE,SUTTER SELECT & SUTTER HEALTH PLAN HMO PLANS,UnitedHealthcare,HMO,commercial,64053
+VHP COMMERCIAL [385],VHP ACTIVE EMPLOYEES [385001],Valley Health Plan,ANY,commercial,63079
+PHCS-MULTIPLAN [435],PHCS MULTIPLAN [435001],MultiPlan / PHCS,ANY,commercial,62710
+BLUE CROSS MEDI-CAL MC [320],BLUE CROSS MCMC [320001],Anthem Blue Cross,ANY,medicaid,62603
+CENTRAL CA ALLIANCE [340],CENTRAL CA ALLIANCE [340001],Central Ca Alliance [340],ANY,commercial,62049
+Bright Health,COMM,Bright Health,ANY,commercial,61057
+UNITED HEALTHCARE [245],UHC-NAVIGATE PLANS [245007],UnitedHealthcare,ANY,commercial,60582
+CIGNA [220],CIGNA PPO [220001],Cigna,PPO,commercial,59621
+SANTA CLARA FAMILY HEALTH PLAN MC [205],SANTA CLARA FAMILY HEALTH PLAN MC [205001],Santa Clara Family Health Plan,ANY,commercial,58901
+BLUE SHIELD [1006001],Blue Shield,Blue Shield of California,ANY,commercial,56071
+AETNA [1001001],Aetna,Aetna,ANY,commercial,55285
+Kaiser,Commercial|All Plans,Kaiser,ANY,commercial,54361
+UNITED HEALTH CARE [1041001],United Healthcare,UnitedHealthcare,ANY,commercial,54010
+Aetna ,MCRPPO,Aetna,ANY,commercial,49687
+Aetna ,MCRPOS,Aetna,ANY,commercial,49687
+Aetna ,MCRHMO,Aetna,ANY,commercial,49687
+Aetna,All Commercial Plans,Aetna,ANY,commercial,48905
+AETNA [215],AETNA PPO [215001],Aetna,PPO,commercial,48793
+Unitedhealthcare,All Commercial Plans,UnitedHealthcare,ANY,commercial,48729
+HealthSmart ,WCOMP,Workers Comp,ANY,other,48055
+Sutter Select,COMM,Sutter Select,ANY,commercial,47485
+PPO Next,COMM,Ppo Next,PPO,commercial,47485
+First Health,WCOMP,Workers Comp,ANY,other,47485
+PPO Next,PPO,Ppo Next,PPO,commercial,47485
+MultiPlan,Complementary,MultiPlan / PHCS,ANY,commercial,47485
+NX Health Network,COMM,Nx Health Network,ANY,commercial,47485
+Intercontinental Corporation,COMM,Intercontinental Corporation,ANY,commercial,47485
+PHA Pacific Health Alliance,COMM,Pha Pacific Health Alliance,ANY,commercial,47485
+United,GlobalBenefitPlan,UnitedHealthcare,ANY,commercial,47472
+United,OptionsPPO,UnitedHealthcare,ANY,commercial,47472
+Cigna BH,COMMBH,Cigna,ANY,commercial,47469
+First Health,COMM,First Health / Coventry,ANY,commercial,47205
+ChoiceCare Humana ,COMM,Humana,ANY,commercial,46715
+Santa Clara IPA MCR,MCR,Medicare,ANY,medicare,45684
+Santa Clara IPA COMM,COMM,Santa Clara Ipa,ANY,commercial,45590
+Magellan,Commercial|All Plans,Magellan,ANY,commercial,44552
+Unitedhealthcare,Medicare Managed Care Plan,UnitedHealthcare,ANY,medicare_advantage,42588
+BLUE SHIELD,STANFORD HEALTHCARE ALLIANCE PLAN,Blue Shield of California,ANY,commercial,41707
+Blue Shield CA,Commercial|Exchange,Blue Shield of California,ANY,exchange,39444
+Blue Shield CA,Commercial|ACO Trio,Blue Shield of California,ANY,commercial,37905
+Anthem,Medi-Cal,Anthem Blue Cross,ANY,medicaid,37885
+Unitedhealthcare,Select/Navigate Hmo,UnitedHealthcare,HMO,commercial,37167
+Connected Care,Commercial|Intel,Connected Care,ANY,commercial,35692
+Blue Shield,Hmo/Ppo,Blue Shield of California,"PPO,HMO",commercial,33409
+Blue Shield,Medicare Managed Care Plan,Blue Shield of California,ANY,medicare_advantage,33364
+UNITED HEALTHCARE [245],UHC- UNITED HEALTHCARE [245001],UnitedHealthcare,ANY,commercial,33362
+Blue Shield,Individual,Blue Shield of California,ANY,exchange,33219
+Health Plan San Mateo,Medicaid|> 21,Health Plan of San Mateo,ANY,medicaid,32785
+Health Plan San Mateo,Medicaid|< 21,Health Plan of San Mateo,ANY,medicaid,32785
+Aetna,Medicare Managed Care Plan,Aetna,ANY,medicare_advantage,32773
+Blue Cross,Epo Exchange,Anthem Blue Cross,EPO,exchange,32430
+Blue Cross,Nonmcs All Commercial Plans,Anthem Blue Cross,ANY,commercial,32430
+BLUE CROSS [335],BLUE CROSS PRUDENT BUYER -PPO [335001],Anthem Blue Cross,PPO,commercial,32429
+BLUE CROSS ALT [650],BLUE CROSS SL ALT [650001],Anthem Blue Cross,ANY,commercial,32429
+MedCare Partners,MGMCR,Medcare Partners,ANY,commercial,32238
+AETNA,AETNA ALL OTHER PLANS,Aetna,ANY,commercial,32150
+BCBS - Anthem,Commercial|All Other Plans,Anthem Blue Cross,ANY,commercial,32114
+BCBS - Anthem,Commercial|MCS,Anthem Blue Cross,ANY,commercial,32114
+HEALTH NET,"HEALTHNET HMO, PPO, POS, EPO, CANOPY HEALTHNET HMO, OTHER-IN-NETWORK PLANS",Health Net,"EPO,POS,PPO,HMO",commercial,31898
+CIGNA,CIGNA COM ALT HMO PLAN,Cigna,HMO,commercial,31400
+Blue Shield,Hmo/Pos,Blue Shield of California,"POS,HMO",commercial,30749
+Brown Toland,Commercial|All Plans,Brown & Toland,ANY,commercial,30327
+HealthSmart ,COMM,Healthsmart,ANY,commercial,29957
+United,Hmo / Ppo,UnitedHealthcare,"PPO,HMO",commercial,29926
+Healthnet,Medicare Managed Care Plan,Health Net,ANY,medicare_advantage,29409
+Imperial Insurance,MCR,Medicare,ANY,medicare,29199
+Kaiser,Kaiser Commercial,Kaiser,ANY,commercial,29126
+Multiplan,Multiplan PPO Complementary Network,MultiPlan / PHCS,PPO,commercial,29126
+Indemnity,Indemnity,Indemnity,ANY,commercial,29126
+ChoiceCare Network,Choice Care Humana PPO,Humana,PPO,commercial,29126
+BLUE CROSS BLUE SHIELD [1005201],Blue Shield,Blue Shield of California,ANY,commercial,28088
+BLUE CROSS BLUE SHIELD [1005001],Blue Shield,Blue Shield of California,ANY,commercial,28088
+BLUE CROSS [1004001],Anthem,Anthem Blue Cross,ANY,commercial,28070
+ANTHEM BLUE CROSS [4200],Anthem,Anthem Blue Cross,ANY,commercial,28070
+CIGNA [1011001],Cigna,Cigna,ANY,commercial,27613
+BEECH STREET-ALL PLANS,BEECH STREET-ALL PLANS,Beech Street All Plans,ANY,commercial,27554
+KAISER COMMERCIAL [1026001],Kaiser,Kaiser,ANY,commercial,27243
+INTERPLAN-ALL PLANS,INTERPLAN-ALL PLANS,Interplan,ANY,commercial,27181
+Health Net,Medicaid|< 21,Health Net,ANY,medicaid,27159
+Health Net,Medicaid|> 21,Health Net,ANY,medicaid,27159
+AETNA-ALL PLANS,AETNA-ALL PLANS,Aetna,ANY,commercial,27137
+Kaiser,Medicaid|< 21,Kaiser,ANY,medicaid,26728
+Kaiser,Medicaid|> 21,Kaiser,ANY,medicaid,26728
+Physician Health Network,MGMCD,Physician Health Network,ANY,commercial,26091
+Physicians Medical Group ,MCD,Medi-Cal,ANY,medicaid,26091
+ALAMEDA ALLIANCE [1002206],Alameda Alliance,Alameda Alliance,ANY,commercial,26046
+ALAMEDA ALLIANCE NON-VERIFIED [1002303],Alameda Alliance,Alameda Alliance,ANY,commercial,26046
+MC ALAMEDA ALLIANCE CAPITATION [1002103],Alameda Alliance,Alameda Alliance,ANY,commercial,26046
+ALAMEDA ALLIANCE MGD MCAL ALTERNATE [2801],Alameda Alliance,Alameda Alliance,ANY,medicaid,26044
+ALAMEDA ALLIANCE COMMERCIAL ALTERNATE [4801],Alameda Alliance,Alameda Alliance,ANY,commercial,25950
+CIGNA,CIGNA PPO,Cigna,PPO,commercial,25668
+Blue Shield CA,Commercial|All Other Plans,Blue Shield of California,ANY,commercial,25587
+MEDI-CAL,MEDI-CAL,Medi-Cal,ANY,medicaid,25322
+ALAMEDA ALLIANCE [1002106],Alameda Alliance,Alameda Alliance,ANY,commercial,25244
+Self Pay,Self Pay,Self Pay,ANY,commercial,24323
+Blue Shield,Ppo/Epo,Blue Shield of California,"EPO,PPO",commercial,24195
+Blue Cross,Anthem Medicare Managed Care Plan,Anthem Blue Cross,ANY,medicare_advantage,24175
+THREE RIVERS-ALL PLANS,THREE RIVERS-ALL PLANS,Three Rivers All Plans,ANY,commercial,23643
+PHCS-ALL PLANS,PHCS-ALL PLANS,MultiPlan / PHCS,ANY,commercial,23643
+HEALTH MANAGEMENT NETWORK-ALL PLANS,HEALTH MANAGEMENT NETWORK-ALL PLANS,Health Management Network All Plans,ANY,commercial,23643
+WESTERN GROWERS-ALL PLANS,WESTERN GROWERS-ALL PLANS,Western Growers All Plans,ANY,commercial,23642
+CIGNA-ALL OTHER PLANS,CIGNA-ALL OTHER PLANS,Cigna,ANY,commercial,23623
+BLUE SHIELD NON-EPN,BLUE SHIELD NON-EPN,Blue Shield of California,ANY,exchange,23585
+BLUE SHIELD EPN-ALL OTHER PLANS,BLUE SHIELD EPN-ALL OTHER PLANS,Blue Shield of California,ANY,exchange,23585
+BLUE CROSS NON MCS,BLUE CROSS NON MCS,Anthem Blue Cross,ANY,commercial,23536
+BLUE CROSS MCS - ALL OTHER PLANS,BLUE CROSS MCS - ALL OTHER PLANS,Anthem Blue Cross,ANY,commercial,23536
+KAISER-ALL OTHER PLANS,KAISER-ALL OTHER PLANS,Kaiser,ANY,commercial,23534
+UHC SELECT/SELECT PLUS,UHC SELECT/SELECT PLUS,UnitedHealthcare,ANY,commercial,23525
+UHC ALL PAYER - ALL OTHER PLANS,UHC ALL PAYER - ALL OTHER PLANS,UnitedHealthcare,ANY,commercial,23525
+UHC JLL,UHC JLL,UnitedHealthcare,ANY,commercial,23525
+UHC OPTIONS PPO,UHC OPTIONS PPO,UnitedHealthcare,PPO,commercial,23525
+Blue Shield,Epn Exchange,Blue Shield of California,ANY,exchange,23484
+Blue Shield,Hmo/Pos/Ppo,Blue Shield of California,"POS,PPO,HMO",commercial,23484
+Aspire,Medicare Managed Care Plan,Aspire Health Plan,ANY,medicare_advantage,23360
+Chinese Community Health Plan,Medicare Managed Care Plan,Chinese Community Health Plan,ANY,medicare_advantage,23360
+Brown & Toland Health Services,Medicare Managed Care Plan,Brown & Toland,ANY,medicare_advantage,23360
+BLUE SHIELD MCR ADV,BLUE SHIELD MCR ADV,Blue Shield of California,ANY,medicare_advantage,23316
+KAISER MCR ADV,KAISER MCR ADV,Kaiser,ANY,medicare_advantage,23316
+KAISER MEDI-CAL MANAGED CARE [1026106],Kaiser Medi-Cal Managed Care,Kaiser,ANY,medicaid,21794
+Chinese Community,Medicare|All Plans,Chinese Community Health Plan,ANY,medicare,21306
+US Behavioral Health,Commercial|All Plans,Us Behavioral Health,ANY,other,20769
+Cigna,Hmo/Ppo,Cigna,"PPO,HMO",commercial,20305
+Brown Toland,Medicare|All Plans,Brown & Toland,ANY,medicare,20181
+Alignment Health Plan,Medicare Adv_ Hmo / Ppo,Alignment,"PPO,HMO",medicare_advantage,20110
+Health Plan San Mateo,Medicare|All Plans,Health Plan of San Mateo,ANY,medicare,19879
+Health Net,Commercial|Canopy Health,Health Net,ANY,commercial,19877
+Blue Shield CA,Medicare|All Plans,Blue Shield of California,ANY,medicare,19837
+United,Medicare|All Plans,UnitedHealthcare,ANY,medicare,19827
+Health Net,Medicare|All Plans,Health Net,ANY,medicare,19824
+Kaiser,Medicare|All Plans,Kaiser,ANY,medicare,19824
+Humana,Medicare|All Plans,Humana,ANY,medicare,19824
+Aetna,Medicare|All Plans,Aetna,ANY,medicare,19824
+Kaiser Foundation Hospitals,Commercial,Kaiser,ANY,commercial,19779
+Beech Street,Beech Street,Beech Street,ANY,commercial,19779
+Kaiser Medical,Managed Medicaid,Kaiser,ANY,medicaid,19779
+Humana Choice Care,Commercial,Humana,ANY,commercial,19779
+Interplan PPO,Commercial,Interplan,PPO,commercial,19779
+Partnership Health Plan,Managed Medicaid,Partnership HealthPlan,ANY,medicaid,19779
+Multiplan/PHCS,Commercial,MultiPlan / PHCS,ANY,commercial,19779
+Coventry (CCN/First Health),Commercial,First Health / Coventry,ANY,commercial,19779
+Sutter Select,Commercial,Sutter Select,ANY,commercial,19779
+Pacific Foundation for Medical Care,Commercial,Medi-Cal,ANY,medicaid,19779
+United Healthcare HMO,Commercial,UnitedHealthcare,HMO,commercial,19778
+Anthem Blue Cross,Commercial,Anthem Blue Cross,ANY,commercial,19775
+Anthem Blue Connection,Commercial,Anthem Blue Cross,ANY,commercial,19775
+Anthem Blue Cross Hill Physicians,Commercial,Anthem Blue Cross,ANY,commercial,19774
+United Healthcare EPO,Commercial,UnitedHealthcare,EPO,commercial,19769
+Aetna,Commercial,Aetna,ANY,commercial,19620
+Provider Network of America,Amy's Kitchen,Provider Network Of America,ANY,commercial,19619
+Marin Cancer Care,Commercial,Marin Cancer Care,ANY,commercial,19616
+Blue Shield ACO,Commercial,Blue Shield of California,ANY,commercial,19616
+CA Prison Health Care Services,Government,Ca Prison Health Care Services,ANY,commercial,19616
+Healthnet Tailored Network,Commercial,Health Net,ANY,commercial,19616
+Providers Network of America,Not Amy's Kitchen,Providers Network Of America,ANY,commercial,19616
+Brown and Tolan,Medicare Advantage,Brown And Tolan,ANY,medicare_advantage,19616
+Aetna,Medicare Advantage,Aetna,ANY,medicare_advantage,19616
+Blue Shield HMO/PPO,Commercial,Blue Shield of California,"PPO,HMO",commercial,19616
+Kaiser,Medicare Advantage,Kaiser,ANY,medicare_advantage,19616
+Healthnet HMO/PPO,Commercial,Health Net,"PPO,HMO",commercial,19616
+Healthnet HMO/PPO Hill Physicians,Commercial,Health Net,"PPO,HMO",commercial,19616
+Hills Blue Shield HMO/PPO,Commercial,Blue Shield of California,"PPO,HMO",commercial,19616
+Healthnet Enhancedcare,Commercial,Health Net,ANY,commercial,19616
+Blue Shield CPIC/EPO,Commercial,Blue Shield of California,EPO,commercial,19616
+Aetna Hill Physicians,Commercial,Aetna,ANY,commercial,19599
+SFHP,Medicaid|< 21,San Francisco Health Plan,ANY,medicaid,19513
+SFHP,Medicaid|> 21,San Francisco Health Plan,ANY,medicaid,19513
+Blue Shield,Medicare Adv_ Hmo / Ppo,Blue Shield of California,"PPO,HMO",medicare_advantage,19470
+United,Medicare Adv_ Hmo / Ppo,UnitedHealthcare,"PPO,HMO",medicare_advantage,19470
+BCBS - Anthem,Medicaid|All Plans,Anthem Blue Cross,ANY,medicaid,19460
+Blue Cross,Mcs All Commercial Plans,Anthem Blue Cross,ANY,commercial,19346
+United,Commercial|All Other Plans,UnitedHealthcare,ANY,commercial,19344
+United,Commercial|Options PPO,UnitedHealthcare,PPO,commercial,19344
+United,Commercial|HMO,UnitedHealthcare,HMO,commercial,19335
+AH EMPLOYEE HEALTH PLAN - ALL PLANS,AH EMPLOYEE HEALTH PLAN - ALL PLANS,Ah Employee Health Plan All Plans,ANY,commercial,18960
+TRICARE BLUE SHIELD,TRICARE BLUE SHIELD,Blue Shield of California,ANY,other,18851
+BLUE SHIELD BH MCR ADV,BLUE SHIELD BH MCR ADV,Blue Shield of California,ANY,medicare_advantage,18795
+Mills Peninsula Health Services,Mills Peninsula Commercial,Mills Peninsula Health Services,ANY,commercial,18754
+Health Net,Commercial|Care Product,Health Net,ANY,commercial,18660
+Aetna,Hmo/Ppo,Aetna,"PPO,HMO",commercial,18400
+Anthem,Hmo/Ppo,Anthem Blue Cross,"PPO,HMO",commercial,18303
+BLUE CROSS/BLUE SHIELD,BLUE CROSS EXCHANGE HIX,Anthem Blue Cross,ANY,exchange,18251
+Anthem,Individual,Anthem Blue Cross,ANY,exchange,18238
+Partnership Health Plan,Medicaid|< 21,Partnership HealthPlan,ANY,medicaid,17983
+Partnership Health Plan,Medicaid|> 21,Partnership HealthPlan,ANY,medicaid,17983
+Healthnet,Hmo/Pos/Ppo,Health Net,"POS,PPO,HMO",commercial,17858
+California Health & Wellness,Medicaid|< 21,Medi-Cal,ANY,medicaid,17676
+California Health & Wellness,Medicaid|> 21,Medi-Cal,ANY,medicaid,17676
+GALAXY NETWORK-ALL PLANS,GALAXY NETWORK-ALL PLANS,Galaxy Network All Plans,ANY,commercial,17188
+HEALTHNET-ALL PLANS,HEALTHNET-ALL PLANS,Health Net,ANY,commercial,17188
+MultiPlan/BCE Emergis,Multiplan PPO Primary Network,MultiPlan / PHCS,PPO,commercial,17188
+Beech Street Corporation,Beech Street PPO,Beech Street Corporation,PPO,commercial,17188
+Interplan Corporation,Interplan Workers Compensation,Workers Comp,ANY,other,17188
+CHOICECARE-ALL PLANS,CHOICECARE-ALL PLANS,Choicecare All Plans,ANY,commercial,17188
+Interplan Corporation,Interplan,Interplan,ANY,commercial,17187
+UMR UHC PPO,UMR UHC PPO,UnitedHealthcare,PPO,commercial,17132
+BLUE CROSS EXCHANGE,BLUE CROSS EXCHANGE,Anthem Blue Cross,ANY,exchange,17102
+Blue Shield,Epn/Ifp Other Commercial Plan,Blue Shield of California,ANY,exchange,17098
+Blue Shield,Covered California Other Commercial Plan,Blue Shield of California,ANY,exchange,17098
+BLUE SHIELD BEHAV HLTH,BLUE SHIELD BEHAV HLTH,Blue Shield of California,ANY,commercial,16974
+UHC MCR ADV,UHC MCR ADV,UnitedHealthcare,ANY,medicare_advantage,16972
+VA MEDI-CAL,VA MEDI-CAL,Medi-Cal,ANY,medicaid,16659
+UMR,SUTTER SELECT & SUTTER HEALTH PLAN HMO PLANS,Sutter Health Plan,HMO,commercial,16456
+SUTTER,SUTTER SELECT & SUTTER HEALTH PLAN HMO PLANS,Sutter Health Plan,HMO,commercial,16246
+Health Net,Health Net HMO/PPO/POS/EPO,Health Net,"EPO,POS,PPO,HMO",commercial,15963
+Chinese Community Health Plan,CCHP Commercial (Full-Risk),Chinese Community Health Plan,ANY,commercial,15925
+UHC HMO,UHC HMO,UnitedHealthcare,HMO,commercial,15894
+CIGNA Healthcare of California,CIGNA HMO,Cigna,HMO,commercial,15615
+MERITAIN HEALTH,AETNA ALL OTHER PLANS,Aetna,ANY,commercial,15611
+Blue Shield of California,Blue Shield PPO,Blue Shield of California,PPO,commercial,15430
+Blue Shield of California,Blue Shield HMO,Blue Shield of California,HMO,commercial,15430
+Blue Cross of California,Blue Cross MCS,Anthem Blue Cross,ANY,commercial,15417
+Blue Cross of California,Blue Cross Out of State,Anthem Blue Cross,ANY,commercial,15416
+Blue Cross of California,Blue Cross Non-MCS,Anthem Blue Cross,ANY,commercial,15416
+Anthem Blue Cross,Anthem Blue Cross Select HMO,Anthem Blue Cross,HMO,commercial,15411
+Anthem Blue Cross,Anthem Blue Cross Priority Select HMO,Anthem Blue Cross,HMO,commercial,15411
+Blue Cross of California,Blue Cross Workers Compensation,Workers Comp,ANY,other,15411
+Canopy Health,Canopy Health Commercial,Canopy Health,ANY,commercial,15345
+Chinese Community Health Plan,CCHP Senior Plan,Chinese Community Health Plan,ANY,medicare_advantage,15345
+Canopy Health,Canopy Health Medicare,Canopy Health,ANY,medicare,15345
+Easy Choice Hospital Services,Easy Choice Medicare Advantage,Easy Choice Hospital Services,ANY,medicare_advantage,15341
+Jade Health Care MG,Jade Health Care Commercial,Jade Health,ANY,commercial,15257
+Western Health Advantage,Commercial,Western Health Advantage,ANY,medicare_advantage,15198
+Cigna,Commercial,Cigna,ANY,commercial,15191
+United Healthcare,UHC Doctor's Plan,UnitedHealthcare,ANY,commercial,15183
+Cigna Hill Physicians,Commercial,Cigna,ANY,commercial,15182
+United Healthcare PPO,Commercial,UnitedHealthcare,PPO,commercial,15180
+Workers Compensation Federal,Workers Compensation Federal,Workers Comp,ANY,other,14663
+UHC EPO/POS,UHC PPO ALL PAYOR APPENDIX,UnitedHealthcare,"EPO,POS,PPO",commercial,14639
+TRICARE WEST,TRICARE WEST,Tricare,ANY,other,14618
+CIGNA,CIGNA HEALTH PLAN - PPO,Cigna,PPO,commercial,14595
+CIGNA,CIGNA HEALTH PLAN - HMO,Cigna,HMO,commercial,14595
+CIGNA,CIGNA/HMO/POS,Cigna,"POS,HMO",commercial,14595
+Healthcare Foundation of San Mateo,Healthcare Foundation of San Mateo PPO,Health Plan of San Mateo,PPO,commercial,14490
+Healthcare Foundation of San Mateo,Healthcare Foundation of San Mateo EPO,Health Plan of San Mateo,EPO,commercial,14490
+Health Net,Hmo/Ppo,Health Net,"PPO,HMO",commercial,14460
+Cigna Behavioral Health,Commercial,Cigna,ANY,other,14432
+Optum,Commercial,UnitedHealthcare,ANY,commercial,14432
+Canopy,Commercial,Canopy Health,ANY,commercial,14302
+Canopy Hill Physicians,Commercial,Hill Physicians,ANY,commercial,14302
+BLUE SHIELD OUT OF STATE,STANFORD HEALTHCARE ALLIANCE PLAN,Blue Shield of California,ANY,commercial,14035
+Health Net,Medicare Adv_ Hmo / Ppo,Health Net,"PPO,HMO",medicare_advantage,13996
+Brown and Toland Medical Group,Brown and Toland Medical Group Medi-Cal,Brown & Toland,ANY,medicaid,13797
+Hill Physicians Medical Group Inc,Hill Physicians Medical Group Commercial,Hill Physicians,ANY,medicaid,13782
+Blue Cross - Asc,All Commercial Plans,Anthem Blue Cross,ANY,commercial,13326
+BCBS - Anthem,Medicare|All Other Plans,Anthem Blue Cross,ANY,medicare,13314
+MHN,Commercial|All Plans,Mhn,ANY,commercial,13314
+Humana,Commercial|All Plans,Humana,ANY,commercial,13289
+MEDICONNECT SCFHP [727],MEDICONNECT SCFHP [727001],Santa Clara Family Health Plan,ANY,commercial,13196
+Blue Cross,Mcs Ppo,Anthem Blue Cross,PPO,commercial,13084
+ONLOK [380],ONLOK [380001],Onlok [380],ANY,commercial,13068
+Unitedhealthcare - Asc,All Commercial Plans,UnitedHealthcare,ANY,commercial,12878
+Health Net,Commercial|Blue Gold,Health Net,ANY,commercial,12744
+Health Net,Commercial|FFS,Health Net,ANY,commercial,12743
+Aetna,Commercial|All Plans,Aetna,ANY,commercial,12661
+VA MCR - ALL OTHER PLANS,VA MCR - ALL OTHER PLANS,Medicare,ANY,medicare,12505
+Blue Shield CA,Commercial|FFS,Blue Shield of California,ANY,commercial,12361
+Health Plan Of San Mateo,Medicare Adv_ Hmo / Ppo,Health Plan of San Mateo,"PPO,HMO",medicare_advantage,12254
+Blue Cross,Anthem All Commercial Plans,Anthem Blue Cross,ANY,commercial,12133
+Chinese Community,Commercial|All Plans,Chinese Community Health Plan,ANY,commercial,11934
+KAISER [230],KAISER [230001],Kaiser,ANY,commercial,11914
+Sutter Health Plus,All Commercial Plans,Sutter Health Plan,ANY,commercial,11645
+CIGNA-ALL PLANS,CIGNA-ALL PLANS,Cigna,ANY,commercial,11579
+Blue Shield,Value Network/IFP Benefit Other Commercial Plan,Blue Shield of California,ANY,exchange,11568
+Clever Care of Golden State,MCR,Medicare,ANY,medicare,11550
+Humana,Medicare Adv_ Hmo / Ppo,Humana,"PPO,HMO",medicare_advantage,11495
+Blue Shield - Asc,All Commercial Plans,Blue Shield of California,ANY,commercial,11446
+Healthnet,Wellcare Medicare Managed Care Plan,Health Net,ANY,medicare_advantage,11098
+The First Health Network,First Health Workers Compensation,Workers Comp,ANY,other,11003
+Private Healthcare Sytems Inc,PHCS,MultiPlan / PHCS,ANY,commercial,11003
+The First Health Network,First Health/CCN,First Health / Coventry,ANY,commercial,11003
+Sutter Health,Commercial|All Plans,Sutter Health Plan,ANY,commercial,10880
+AETNA,AETNA EXCHANGE,Aetna,ANY,exchange,10768
+AETNA,AETNA GATEKEEPER (HMO/POS/EPO),Aetna,"EPO,POS,HMO",commercial,10768
+AETNA,AETNA NON GATEKEEPER (PPO),Aetna,PPO,commercial,10768
+UNITED HEALTHCARE,UNITED HEALTHCARE DOCTORS PLAN,UnitedHealthcare,ANY,commercial,10477
+Blue Shield,PPO/EPO,Blue Shield of California,"EPO,PPO",commercial,10434
+Jade Health Care MG,Jade Health Care Medi-Cal,Jade Health,ANY,medicaid,10434
+Blue Shield,HMO/POS,Blue Shield of California,"POS,HMO",commercial,10434
+SUTTER SELECT (UMR)-ALL PLANS,SUTTER SELECT (UMR)-ALL PLANS,Sutter Select (Umr) All Plans,ANY,commercial,10381
+ALAMEDA ALLIANCE PPO-ALL OTHER PLANS,ALAMEDA ALLIANCE PPO-ALL OTHER PLANS,Alameda Alliance,PPO,commercial,10375
+Mills Peninsula Health Care,Mills Peninsula Commerical,Mills Peninsula Health Care,ANY,commercial,10372
+MASONIC HOMES PPO-ALL PLANS,MASONIC HOMES PPO-ALL PLANS,Masonic Homes Ppo All Plans,PPO,commercial,10366
+ANTHEM BC PPO/HPN - ALL OTHER PLANS,ANTHEM BC PPO/HPN - ALL OTHER PLANS,Anthem Blue Cross,PPO,commercial,10366
+INTERPLAN B-4 PPO-ALL OTHER PLANS,INTERPLAN B-4 PPO-ALL OTHER PLANS,Interplan,PPO,commercial,10366
+PACIFIC FOUNDATION PPO-ALL OTHER PLANS,PACIFIC FOUNDATION PPO-ALL OTHER PLANS,Pacific Foundation Ppo,PPO,commercial,10366
+CIGNA PPO/HMO-ALL OTHER PLANS,CIGNA PPO/HMO-ALL OTHER PLANS,Cigna,"PPO,HMO",commercial,10366
+HUMANA CHOICE CARE-ALL OTHER PLANS,HUMANA CHOICE CARE-ALL OTHER PLANS,Humana,ANY,commercial,10366
+BLUE SHIELD HMO,BLUE SHIELD HMO,Blue Shield of California,HMO,commercial,10366
+ANTHEM BC FEDERAL EMPLOYEES,ANTHEM BC FEDERAL EMPLOYEES,Anthem Blue Cross,ANY,commercial,10366
+PACIFIC HEALTH ALLIANCE PPO-ALL OTHER PLANS,PACIFIC HEALTH ALLIANCE PPO-ALL OTHER PLANS,Pacific Health Alliance Ppo,PPO,commercial,10366
+PREFERRED HEALTH NETWORK-ALL PLANS,PREFERRED HEALTH NETWORK-ALL PLANS,Preferred Health Network All Plans,ANY,commercial,10366
+CNA (MAILHANDLERS)-ALL PLANS,CNA (MAILHANDLERS)-ALL PLANS,Cna (Mailhandlers) All Plans,ANY,commercial,10366
+PACIFIC HEALTH ALLIANCE EPO,PACIFIC HEALTH ALLIANCE EPO,Pacific Health Alliance Epo,EPO,commercial,10366
+STANDFORD HEALTH SERVICES-ALL PLANS,STANDFORD HEALTH SERVICES-ALL PLANS,Standford Health Services All Plans,ANY,commercial,10366
+COUNTY OF SANTA CLARA-ALL PLANS,COUNTY OF SANTA CLARA-ALL PLANS,County Of Santa Clara All Plans,ANY,other,10366
+ANTHEM BC HMO/IFP,ANTHEM BC HMO/IFP,Anthem Blue Cross,HMO,exchange,10366
+CORVEL-ALL PLANS,CORVEL-ALL PLANS,Corvel All Plans,ANY,commercial,10366
+INTERPLAN B-2 PPO,INTERPLAN B-2 PPO,Interplan,PPO,commercial,10366
+MULTIPLAN PPO-ALL PLANS,MULTIPLAN PPO-ALL PLANS,MultiPlan / PHCS,PPO,commercial,10366
+BLUE SHIELD EPPO,BLUE SHIELD EPPO,Blue Shield of California,ANY,commercial,10366
+PHCS/PRIVATE HEALTHCARE SYSTEMS-ALL PLANS,PHCS/PRIVATE HEALTHCARE SYSTEMS-ALL PLANS,MultiPlan / PHCS,ANY,commercial,10366
+KAISER - ALL OTHER PLANS,KAISER - ALL OTHER PLANS,Kaiser,ANY,commercial,10366
+PACIFIC FOUNDATION EPO,PACIFIC FOUNDATION EPO,Pacific Foundation Epo,EPO,commercial,10366
+CIGNA NEW BUS OAP,CIGNA NEW BUS OAP,Cigna,ANY,commercial,10366
+THREE RIVERS PROVIDER NETWORK-ALL PLANS,THREE RIVERS PROVIDER NETWORK-ALL PLANS,Three Rivers Provider Network All Plans,ANY,commercial,10366
+BLUE SHIELD PPO - ALL OTHER PLANS,BLUE SHIELD PPO - ALL OTHER PLANS,Blue Shield of California,PPO,commercial,10366
+HEALTH NET/HEALTHY FAMILY/AIM,HEALTH NET/HEALTHY FAMILY/AIM,Health Net,ANY,commercial,10366
+AETNA-ALL OTHER PLANS,AETNA-ALL OTHER PLANS,Aetna,ANY,commercial,10366
+FIRST HEALTH -ALL PLANS,FIRST HEALTH -ALL PLANS,First Health / Coventry,ANY,commercial,10365
+UHC PPO-ALL OTHER PLANS,UHC PPO-ALL OTHER PLANS,UnitedHealthcare,PPO,commercial,10365
+UHC SELECT/NAVIGATE/CORE,UHC SELECT/NAVIGATE/CORE,UnitedHealthcare,ANY,commercial,10365
+UHC DOCTORS PLAN PPO/EP,UHC DOCTORS PLAN PPO/EP,UnitedHealthcare,PPO,commercial,10365
+CANOPY-ALL OTHER PLANS,CANOPY-ALL OTHER PLANS,Canopy Health,ANY,commercial,10365
+North East Medical Services,North East Medical Services Medi-Cal Managed Care,Medi-Cal,ANY,medicaid,10314
+Cigna,Commercial|All Other Plans,Cigna,ANY,commercial,10280
+Cigna,Commercial|LocalPlus,Cigna,ANY,commercial,10280
+Blue Cross of California,Blue Cross Medi-Cal,Anthem Blue Cross,ANY,medicaid,10197
+KAISER MEDI-CAL,KAISER MEDI-CAL,Kaiser,ANY,medicaid,10164
+Interplan,Interplan,Interplan,ANY,commercial,10136
+Multiplan Inc,Multiplan,MultiPlan / PHCS,ANY,commercial,10136
+HEALTHNET COMM - ALL OTHER PLANS,HEALTHNET COMM - ALL OTHER PLANS,Health Net,ANY,commercial,10106
+AETNA MEDICARE [810],AETNA MEDICARE [810001],Aetna,ANY,medicare,10088
+Humana,Medicare Managed Care Plan,Humana,ANY,medicare_advantage,10004
+San Francisco Health Plan,San Francisco Health Plan,San Francisco Health Plan,ANY,commercial,9846
+Brand New Day,Brand New Day Commercial,Brand New Day,ANY,commercial,9768
+Hill Physicians Medical Group Inc,Hill Physicians Medical Group Medi-Cal,Hill Physicians,ANY,medicaid,9180
+Kaiser,Kaiser Medi-Cal,Kaiser,ANY,medicaid,9116
+UHC,UHC HMO/Signature Value/Navigate Select,UnitedHealthcare,HMO,commercial,9105
+BCBS - Anthem,Medicaid|< 21,Anthem Blue Cross,ANY,medicaid,9052
+BCBS - Anthem,Medicaid|> 21,Anthem Blue Cross,ANY,medicaid,9052
+Partnership Health Plan,Medicaid|All Plans,Partnership HealthPlan,ANY,medicaid,9040
+Partnership,Commercial|All Plans,Partnership HealthPlan,ANY,commercial,9040
+Health Plan of San Mateo Healthworx,Health Plan of San Mateo Healthworx,Health Plan of San Mateo,ANY,commercial,9014
+UnitedHealthCare,All Commercial Plans,UnitedHealthcare,ANY,commercial,8953
+Central Health Plan,Medicare Adv_ Hmo / Ppo,Central Health Plan,"PPO,HMO",medicare_advantage,8814
+Health Plan of San Mateo,Health Plan of San Mateo,Health Plan of San Mateo,ANY,commercial,8697
+Meritage Medical Network,Commercial,Medi-Cal,ANY,medicaid,8577
+Aetna US Healthcare of California Inc,Aetna HMO/PPO/EPO/MC/POS,Aetna,"EPO,POS,PPO,HMO",commercial,8557
+Hill Physicians Medical Group Inc,Hill Physicians Medical Group Medicare,Hill Physicians,ANY,medicaid,8491
+Blue Shield,Ppo,Blue Shield of California,PPO,commercial,8332
+AETNA - ALL OTHER PLANS,AETNA - ALL OTHER PLANS,Aetna,ANY,commercial,8149
+BLUE SHIELD - ALL OTHER PLANS,BLUE SHIELD - ALL OTHER PLANS,Blue Shield of California,ANY,commercial,8125
+San Mateo County/San Mateo County General Hospital,San Mateo County ACE Program,Health Plan of San Mateo,ANY,other,8071
+AETNA MCR ADV,AETNA MCR ADV,Aetna,ANY,medicare_advantage,8065
+ANTHEM BLUE CROSS - ALL OTHER PLANS,ANTHEM BLUE CROSS - ALL OTHER PLANS,Anthem Blue Cross,ANY,commercial,8056
+HEALTH NET-ALL PLANS,HEALTH NET-ALL PLANS,Health Net,ANY,commercial,8040
+CCHP-ALL OTHER PLANS,CCHP-ALL OTHER PLANS,Chinese Community Health Plan,ANY,commercial,8040
+Blue Shield,PFFS,Blue Shield of California,ANY,commercial,7881
+Blue Shield,MCRSNP,Blue Shield of California,ANY,commercial,7881
+Blue Shield,MCRHMO,Blue Shield of California,ANY,commercial,7881
+Blue Shield,MCRPPO,Blue Shield of California,ANY,commercial,7881
+Blue Shield,MCRPOS,Blue Shield of California,ANY,commercial,7881
+Humana ,MCR,Humana,ANY,medicare,7863
+Anthem ,MCR,Anthem Blue Cross,ANY,medicare,7842
+Vitality Health Plan,MCR,Medicare,ANY,medicare,7841
+Easy Choice Health Plan,MCR,Medicare,ANY,medicare,7841
+TriWest Healthcare Alliance,Veterans,Tricare,ANY,other,7841
+Central Health Plan,MCR,Central Health Plan,ANY,medicare,7841
+BLUE CROSS/BLUE SHIELD,BLUE CROSS MCS WC,Workers Comp,ANY,other,7813
+KAISER  SR. [365],KAISER SR [365001],Kaiser,ANY,commercial,7797
+UNITED HEALTHCARE MEDICARE ADVANTAGE HMO [740],UNITED HEALTHCARE MEDICARE ADVANTAGE HMO [740001],UnitedHealthcare,HMO,medicare_advantage,7797
+BLUE CROSS WELLCARE [375],WELLCARE [375001],Anthem Blue Cross,ANY,commercial,7797
+SCAN HEALTH PLAN [710],SCAN HEALTH PLAN [710001],SCAN,ANY,medicare_advantage,7797
+ALIGNMENT HEALTH [870],ALIGNMENT HEALTH [870001],Alignment,ANY,medicare_advantage,7797
+BLUE CROSS/BLUE SHIELD,BLUE CROSS NON MCS/SR,Anthem Blue Cross,ANY,commercial,7727
+Health Plan Of San Mateo,Medi-Cal,Health Plan of San Mateo,ANY,medicaid,7703
+Aetna,PPO/POS,Aetna,"POS,PPO",commercial,7521
+United,Hmo/Ppo,UnitedHealthcare,"PPO,HMO",commercial,7520
+AMADA HEALTH ANCILLARY MEDICARE ADVANTAGE,AMADA HEALTH ANCILLARY MEDICARE ADVANTAGE,Amada Health Ancillary Medicare Advantage,ANY,medicare_advantage,7487
+MEDICONNECT BLUE CROSS [730],MEDICONNECT BLUE CROSS [730001],Anthem Blue Cross,ANY,commercial,7458
+ANTHEM FULL DUAL ADVANTAGE [780],ANTHEM FULL DUAL ADVANTAGE [780001],Anthem Blue Cross,ANY,medicare_advantage,7458
+Canopy,COMM,Canopy Health,ANY,commercial,7405
+MOLINA,MOLINA MANAGED MEDICAID PROGRAM,Medi-Cal,ANY,medicaid,7336
+Anthem Blue Cross,Anthem Blue Cross Covered California Exchange,Anthem Blue Cross,ANY,exchange,7172
+VHP COMMERCIAL [385],VHP-COVERED CA [385010],Valley Health Plan,ANY,exchange,7124
+BLUE SHIELD FED ALT [860],BS OF CALIFORNIA FEP [860001],Blue Shield of California,ANY,commercial,6793
+Oscar,Commercial|All Plans,Oscar,ANY,commercial,6780
+Kentfield,Medicare|All Plans,Medicare,ANY,medicare,6779
+BCBS - Anthem,Medicare|Chinese Community,Anthem Blue Cross,ANY,medicare,6779
+Health Net,Commercial|All Other Plans,Health Net,ANY,commercial,6775
+Cigna Healthcare of California,Cigna,Cigna,ANY,commercial,6754
+MUIR MG ANCILLARY MEDICARE ADVANTAGE,MUIR MG ANCILLARY MEDICARE ADVANTAGE,Muir Mg Ancillary Medicare Advantage,ANY,medicare_advantage,6741
+BLUE SHIELD MEDI-CAL,BLUE SHIELD MEDI-CAL,Blue Shield of California,ANY,medicaid,6681
+HP OF SAN MATEO MEDI-CAL,HP OF SAN MATEO MEDI-CAL,Health Plan of San Mateo,ANY,medicaid,6681
+SAN FRANCISCO HEALTH PLAN- ALL PLANS,SAN FRANCISCO HEALTH PLAN- ALL PLANS,San Francisco Health Plan,ANY,commercial,6681
+JADE MEDI-CAL,JADE MEDI-CAL,Jade Health,ANY,medicaid,6681
+ANTHEM MEDI-CAL,ANTHEM MEDI-CAL,Anthem Blue Cross,ANY,medicaid,6680
+Cigna,HMO,Cigna,HMO,commercial,6599
+Healthnet of California,Healthnet HMO/PPO,Health Net,"PPO,HMO",commercial,6581
+ALAMEDA ALLIANCE MCR ADV,ALAMEDA ALLIANCE MCR ADV,Alameda Alliance,ANY,medicare_advantage,6546
+BRAND NEW DAY MCR ADV - ALL PLANS,BRAND NEW DAY MCR ADV - ALL PLANS,Brand New Day Mcr Adv All Plans,ANY,medicare_advantage,6546
+Oscar,Commercial|Exchange,Covered California,ANY,exchange,6539
+Humana,Commercial|All Other Plans,Humana,ANY,commercial,6535
+Humana,Commercial|BTMG,Humana,ANY,commercial,6535
+Health Net,Commercial|Prisons,Health Net,ANY,commercial,6535
+First Health,Commercial|All Plans,First Health / Coventry,ANY,commercial,6535
+BCBS - Anthem,Medicare|Burn,Anthem Blue Cross,ANY,medicare,6535
+Humana,Commercial|Chinese Community,Humana,ANY,commercial,6535
+SFHP,Medicaid|All Plans,San Francisco Health Plan,ANY,medicaid,6535
+BCBS - Anthem,Medicare|All Plans,Anthem Blue Cross,ANY,medicare,6510
+HP OF SAN MATEO HEALTH KIDS/HEALTH WORX-ALL OTHER,HP OF SAN MATEO HEALTH KIDS/HEALTH WORX-ALL OTHER,Health Plan of San Mateo,ANY,medicaid,6457
+Alignment Health Plan,MGMCR,Alignment,ANY,medicare_advantage,6445
+Healthnet,All Commercial Plans,Health Net,ANY,commercial,6443
+United,MGMCR,UnitedHealthcare,ANY,commercial,6435
+ASIAN MEDICAL GROUP MEDI-CAL OP ONLY,ASIAN MEDICAL GROUP MEDI-CAL OP ONLY,Medi-Cal,ANY,medicaid,6432
+Blue Shield,TRICARE,Blue Shield of California,ANY,other,6352
+Health Net,Tricare,Health Net,ANY,other,6352
+BLUE CROSS/BLUE SHIELD,BLUE SHIELD HMO RECIPROCITY,Blue Shield of California,HMO,commercial,6303
+CIGNA,CIGNA CA LOCALPLUS NON PARTICIPATING,Cigna,ANY,commercial,6303
+UNITED HEALTHCARE,UNITED HEALTHCARE HMO RECIPROCITY,UnitedHealthcare,HMO,commercial,6303
+Kaiser,All Commercial Plans,Kaiser,ANY,commercial,6230
+Private Healthcare Systems Inc,PHCS,MultiPlan / PHCS,ANY,commercial,6185
+First Health,First Health/CCN,First Health / Coventry,ANY,commercial,6185
+First Health Network,First Health Workers Compensation,Workers Comp,ANY,other,6185
+Blue Cross,"Anthem Ind1, Inca, Ncx3 All Commercial Plans",Anthem Blue Cross,ANY,commercial,6109
+University Healthcare,MCR,Medicare,ANY,medicare,6096
+On Lok Senior Health,MCR,On Lok,ANY,medicare_advantage,6096
+Care1st Health Plan,MCR,Medicare,ANY,medicare,6096
+Palo Alto Medical ,MCR,Medicare,ANY,medicare,6096
+Rios Southwest Medical Group,MGMCR,Medi-Cal,ANY,medicaid,6096
+Rios Health,MGMCR,Rios Health,ANY,commercial,6096
+Astiva Health,MGMCR,Astiva Health,ANY,commercial,6096
+Affinity Medical Group Comm,COMM,Medi-Cal,ANY,medicaid,6096
+Palo Alto Medical ,COMM,Medi-Cal,ANY,medicaid,6096
+Affinity Medical Group Comm,POS,Medi-Cal,POS,medicaid,6096
+Affinity Medical Group,MCR,Medicare,ANY,medicare,6096
+Santa Clara Family Health Plan,Medicare-MedicaidDuals,Santa Clara Family Health Plan,ANY,medicaid,6096
+Scan Health Plan,MCR,SCAN,ANY,medicare_advantage,6096
+CorVel Corporation ,WORKERSCOMP,Workers Comp,ANY,other,6095
+Blue Shield of California,BLUE SHIELD COVERED CA,Blue Shield of California,ANY,exchange,6064
+HEALTH NET [1022001],Health Net,Health Net,ANY,commercial,6029
+AETNA,AETNA HEALTH FUND PPO,Aetna,PPO,commercial,6019
+CMAC,Medi-Cal,Medi-Cal,ANY,medicaid,5999
+HEALTH NET MEDICARE MANAGED CARE [1022107],Health Net Medicare Managed Care,Health Net,ANY,medicare_advantage,5997
+KAISER MEDICARE MANAGED CARE [1026107],Kaiser Medicare Managed Care,Kaiser,ANY,medicare_advantage,5997
+ANTHEM BLUE CROSS MEDICARE [1200],Anthem Medicare Managed Care,Anthem Blue Cross,ANY,medicare_advantage,5997
+BROWN TOLAND MGD MCR ALTERNATE [1802],Brown & Toland,Brown & Toland,ANY,medicare,5996
+BROWN TOLAND MEDICAL GROUP [1049001],Brown & Toland,Brown & Toland,ANY,medicaid,5996
+BLUE SHIELD MEDICARE ADVANTAGE [1006107],Blue Shield Medicare Managed Care,Blue Shield of California,ANY,medicare_advantage,5993
+AETNA MANAGED MEDICARE [1001107],Aetna Medicare Managed Care,Aetna,ANY,medicare_advantage,5988
+BLUE CROSS/BLUE SHIELD,BLUE CROSS BLUE SHIELD OUT OF STATE/HMO,Blue Shield of California,HMO,commercial,5932
+Jade Health Care MG,Jade Health Care Medicare Senior,Jade Health,ANY,medicare_advantage,5925
+Kaiser,Kaiser Senior,Kaiser,ANY,medicare_advantage,5852
+Care Advantage,Care Advantage,Care Advantage,ANY,medicare_advantage,5849
+Aetna,Aetna Senior,Aetna,ANY,medicare_advantage,5849
+Veterans Administration (VA),Veterans Administration (VA),Veterans Administration (Va),ANY,other,5849
+Blue Shield of California,Blue Shield Medicare Advantage,Blue Shield of California,ANY,medicare_advantage,5849
+COVID-19 Uninsured Program,COVID-19 Uninsured Program,Covid 19 Uninsured Program,ANY,commercial,5849
+Humana,Humana Medicare,Humana,ANY,medicare,5849
+Knox-Keene Act,Knox-Keene Act Non Contracted Commercial,Knox Keene Act,ANY,commercial,5849
+Brand New Day,Brand New Day Medicare,Medicare,ANY,medicare,5838
+Central Health Plan,Central Health Plan Medicare,Central Health Plan,ANY,medicare,5834
+United Healthcare,Secure Horizons UHC Senior HMO,UnitedHealthcare,HMO,medicare_advantage,5826
+Contra Costa Health Plan,Medi-Cal,Contra Costa Health Plan,ANY,medicaid,5824
+MultiPlan/BCE Emergis,MultiPlan Workers Compensation,Workers Comp,ANY,other,5803
+Work Comp Other,Work Comp Other,Workers Comp,ANY,other,5803
+Athens Administrators,Athens Administrators AHMC Work Comp,Workers Comp,ANY,other,5803
+ANTHEM BLUE CROSS MEDI-CAL FFS [5001],Blue Cross Medi-Cal,Anthem Blue Cross,ANY,medicaid,5746
+Health Net,Medi-Cal,Health Net,ANY,medicaid,5719
+United Healthcare,United Healthcare PPO-POS-EPO/Pacificare of California HMO-PPO,UnitedHealthcare,"EPO,POS,PPO,HMO",commercial,5688
+Brown and Toland Medical Group,Brown and Toland Medical Group Medicare,Brown & Toland,ANY,medicaid,5627
+Brown and Toland Medical Group,Brown and Toland Medical Group Commercial,Brown & Toland,ANY,medicaid,5627
+CIGNA Healthcare of California,CIGNA PPO,Cigna,PPO,commercial,5591
+Medi-Cal,Medi-Cal Presumptive Eligibility,Medi-Cal,ANY,medicaid,5569
+HEALTHNET  MEDI-CAL MC [420],HEALTHY FAMILIES HEALTHNET [420001],Health Net,ANY,medicaid,5539
+Kaiser Foundation Hospitals,Kaiser/Kaiser SR,Kaiser,ANY,commercial,5526
+Preferred Health Network,PPO Next Preferred Health Network,Preferred Health Network,PPO,commercial,5525
+Aetna Health Plans of California,Aetna Medicare PPO,Aetna,PPO,medicare_advantage,5514
+Blue Cross of California,Blue Cross HMO/PPO/Hill,Anthem Blue Cross,"PPO,HMO",commercial,5500
+Blue Cross of California,Blue Cross HMO/PPO/Affinity,Anthem Blue Cross,"PPO,HMO",commercial,5500
+Blue Cross of California,Blue Cross HMO/PPO,Anthem Blue Cross,"PPO,HMO",commercial,5500
+Aetna Healthcare of California Inc,Aetna,Aetna,ANY,commercial,5500
+HEALTHNET SR. [360],HEALTHNET SR [360001],Health Net,ANY,commercial,5486
+Centers for Elder Independence,Centers for Elders,Centers For Elder Independence,ANY,commercial,5478
+Aetna Health Plans of California,Aetna Health Plan,Aetna,ANY,commercial,5408
+Kaiser,Medicare Managed Care Plan,Kaiser,ANY,medicare_advantage,5403
+UnitedHealthCare HMO Hill Physicians,Commercial,UnitedHealthcare,HMO,commercial,5347
+Blue Cross,Medicare Managed Care Plan,Anthem Blue Cross,ANY,medicare_advantage,5337
+Hill Physicians Medical Group,Hill Physicians Medical Group Medicare,Hill Physicians,ANY,medicaid,5291
+BROWN TOLAND MEDICAL GROUP ALTERNATE [1049301],Brown & Toland,Brown & Toland,ANY,medicaid,5203
+Blue Shield,Sfhss,Blue Shield of California,ANY,commercial,5184
+Cigna Healthcare of California,Cigna/Hill,Cigna,ANY,commercial,5109
+Alameda Alliance,Medi-Cal,Alameda Alliance,ANY,medicaid,5075
+Medi-Cal,Medi-Cal HMO Non-Contract,Medi-Cal,HMO,medicaid,5043
+Cigna,Commercial|All Plans,Cigna,ANY,commercial,5015
+HP OF SAN MATEO MCR ADV,HP OF SAN MATEO MCR ADV,Health Plan of San Mateo,ANY,medicare_advantage,4987
+BAY AREA ACCOUNTABLE CARE MCARE,BAY AREA ACCOUNTABLE CARE MCARE,Bay Area Accountable Care,ANY,commercial,4987
+BAY AREA ACCOUNTABLE CARE - ALL OTHER PLANS,BAY AREA ACCOUNTABLE CARE - ALL OTHER PLANS,Bay Area Accountable Care,ANY,commercial,4987
+Healthnet of California,Healthnet HMO/PPO/Hill,Health Net,"PPO,HMO",commercial,4976
+Aetna [10200],Aetna,Aetna,ANY,commercial,4973
+Shca Comm Aetna [10300000],Aetna,Aetna,ANY,commercial,4973
+Aetna Sutter Health [92200],Aetna,Aetna,ANY,commercial,4973
+Aetna Alt Payer [910200000],Aetna,Aetna,ANY,commercial,4973
+Aetna Choice Pos Ii Shc [10270],Aetna,Aetna,POS,commercial,4973
+Healthnet [12100],Healthnet,Health Net,ANY,commercial,4971
+Healthnet Alt Payer [912100000],Healthnet,Health Net,ANY,commercial,4971
+Cigna Healthcare of California,Cigna/Affinity,Cigna,ANY,commercial,4813
+Kaiser Northern Ca [12900],Multiplan,MultiPlan / PHCS,ANY,commercial,4781
+Claritev [13400],Multiplan,MultiPlan / PHCS,ANY,commercial,4781
+Private Healthcare Systems (Phcs) [14200],Multiplan,MultiPlan / PHCS,ANY,commercial,4781
+Beech St [10600],Multiplan,MultiPlan / PHCS,ANY,commercial,4781
+ASIAN MEDICAL GROUP MCARE OP ONLY-ALL OTHER PLANS,ASIAN MEDICAL GROUP MCARE OP ONLY-ALL OTHER PLANS,Medi-Cal,ANY,medicaid,4764
+Healthnet of California,Healthnet HMO/PPO/Affinity,Health Net,"PPO,HMO",commercial,4680
+Cigna [11000],Cigna Hmo,Cigna,HMO,commercial,4613
+Uhc West Comm Alt Payer [913600000],United Health Care,UnitedHealthcare,ANY,commercial,4613
+United Healthcare [15100],United Health Care,UnitedHealthcare,ANY,commercial,4613
+Cigna Alt Payer [911000000],Cigna Ppo,Cigna,PPO,commercial,4613
+United Healthcare West [13600],United Health Care,UnitedHealthcare,ANY,commercial,4613
+Umr [17000],United Health Care,UnitedHealthcare,ANY,commercial,4613
+Cigna [11000],Cigna Ppo,Cigna,PPO,commercial,4613
+Cigna,All Commercial Plans,Cigna,ANY,commercial,4578
+Blue Card (Out Of State) - Blue Shield [40200],Blue Shield,Blue Shield of California,ANY,commercial,4565
+Blue Shield Alt Payer [970000000],Blue Shield,Blue Shield of California,ANY,commercial,4565
+Blue Shield [70000],Blue Shield,Blue Shield of California,ANY,commercial,4565
+Psych Blue Shield Alt Payer [970000100],Blue Shield,Blue Shield of California,ANY,commercial,4565
+Blue Cross [40100],Blue Shield,Blue Shield of California,ANY,commercial,4565
+American Specialty Health Plan Alt Payer [971000000],Blue Shield,Blue Shield of California,ANY,commercial,4565
+HEALTH NET SR PLUS HMO,HEALTH NET SR PLUS HMO,Health Net,HMO,commercial,4521
+CENTRAL HLTH MCR ADV - ALL PLANS,CENTRAL HLTH MCR ADV - ALL PLANS,Central Hlth Mcr Adv All Plans,ANY,medicare_advantage,4521
+ANTHEM BC MCR ADV,ANTHEM BC MCR ADV,Anthem Blue Cross,ANY,medicare_advantage,4521
+VA (TRIWEST CCN)-ALL PLANS,VA (TRIWEST CCN)-ALL PLANS,Tricare,ANY,other,4521
+HUMANA MCR ADV,HUMANA MCR ADV,Humana,ANY,medicare_advantage,4521
+ON LOK SENIOR HEALTH SERVICES-ALL PLANS,ON LOK SENIOR HEALTH SERVICES-ALL PLANS,On Lok,ANY,medicare_advantage,4521
+CANOPY MCR ADV,CANOPY MCR ADV,Canopy Health,ANY,medicare_advantage,4521
+TRICARE - ALL PLANS,TRICARE - ALL PLANS,Tricare,ANY,other,4521
+Western Health Advantage,Medicare Managed Care Plan,Western Health Advantage,ANY,medicare_advantage,4448
+First Health/Coventry,All Commercial Plans,First Health / Coventry,ANY,commercial,4384
+Blue Card (Out Of State) [40000],Anthem Blue Cross,Anthem Blue Cross,ANY,commercial,4384
+Blue Cross Medi-Cal [31100],Anthem Blue Cross,Anthem Blue Cross,ANY,medicaid,4384
+Shca Comm Intel [20300000],Anthem Blue Cross,Anthem Blue Cross,ANY,commercial,4384
+Blue Cross [40100],Anthem Blue Cross,Anthem Blue Cross,ANY,commercial,4384
+Blue Cross Alt Payer [940100000],Anthem Blue Cross,Anthem Blue Cross,ANY,commercial,4384
+North East Medical Services,North East Medical Services PACE,Medi-Cal,ANY,medicaid,4347
+North East Medical Services,North East Medical Services ACO REACH Program,Medi-Cal,ANY,medicaid,4347
+North East Medical Services,North East Medical Services Medicare Advantage,Medi-Cal,ANY,medicaid,4347
+HEALTHNET [265],HEALTHNET TRICARE [265010],Health Net,ANY,other,4344
+For Your Benefit,For Your Benefit Senior/Anthem BX/AAMG,Anthem Blue Cross,ANY,medicare_advantage,4342
+Health Plan Of San Mateo [31200],Health Plan Of San Mateo,Health Plan of San Mateo,ANY,commercial,4235
+Asian American Medical Group,All American Medical Group Medi-Cal,Medi-Cal,ANY,medicaid,4071
+Partnership Health Plan,Medicaid Managed Care Plan,Partnership HealthPlan,ANY,medicaid,4058
+United Healthcare,United Healthcare PPO-POS-EPO/Pacificare of California HMO-PPO/Hill,UnitedHealthcare,"EPO,POS,PPO,HMO",commercial,4011
+Medi-Cal HMO Non-Contract,Medi-Cal HMO Non-Contract,Medi-Cal,HMO,medicaid,3853
+Healthnet of California,Healthnet SR Advantage/Hill,Health Net,ANY,medicare_advantage,3762
+United Healthcare,Secure Horizons (Pacificare)/Hill,UnitedHealthcare,ANY,medicare_advantage,3762
+Sutter Health,Medicare Managed Care Plan,Sutter Health Plan,ANY,medicare_advantage,3752
+Central Health,Medicare Managed Care Plan,Central Health Plan,ANY,medicare_advantage,3752
+Unitedhealthcare,Hill Physicians Medical Group Medicare Managed Care Plan,UnitedHealthcare,ANY,medicare_advantage,3752
+Kaiser Permanente,Medicare Managed Care Plan,Kaiser,ANY,medicare_advantage,3752
+Corvel HealthCare,Corvel HealthCare Workers Compensation,Workers Comp,ANY,other,3736
+United Healthcare,United Healthcare PPO-POS-EPO/Pacificare of California HMO-PPO/Affinity,UnitedHealthcare,"EPO,POS,PPO,HMO",commercial,3720
+Brown and Toland Health Services Medicare,Brown and Toland Health Services Medicare,Brown & Toland,ANY,medicare,3649
+PacifiCare,Secure Horizons/UHC Senior,UnitedHealthcare,ANY,medicare_advantage,3647
+Anthem,Anthem Blue Cross Senior,Anthem Blue Cross,ANY,medicare_advantage,3647
+HealthNet Seniority,HealthNet Seniority Plus,Health Net,ANY,medicare_advantage,3647
+Healthnet of California,Healthnet SR Advantage/Affinity,Health Net,ANY,medicare_advantage,3642
+UNITED HEALTHCARE,UNITED HEALTHCARE/PPO/BS NETWORK,UnitedHealthcare,PPO,commercial,3642
+ANTHEM BLUE CROSS MEDI-CAL DELEGATED [5002],Blue Cross Medi-Cal,Anthem Blue Cross,ANY,medicaid,3634
+AHMC Health,AHMC Health EPO,Ahmc Health,EPO,commercial,3634
+Multiplan,All Commercial Plans,MultiPlan / PHCS,ANY,commercial,3629
+Blue Shield,Blue Shield,Blue Shield of California,ANY,commercial,3560
+Blue Shield Hill,Blue Shield Hill,Blue Shield of California,ANY,commercial,3560
+Blue Shield Affinity,Blue Shield Affinity,Blue Shield of California,ANY,commercial,3560
+Brown & Toland,Brown  Toland,Brown & Toland,ANY,commercial,3550
+United Healthcare,Secure Horizons (Pacificare),UnitedHealthcare,ANY,medicare_advantage,3550
+Imperial Health Senior,Imperial Health Senior,Imperial Health Senior,ANY,medicare_advantage,3550
+Healthnet of California,Healthnet SR Advantage,Health Net,ANY,medicare_advantage,3550
+Medicare SR Advantage,Medicare SR Advantage,Medicare Sr Advantage,ANY,medicare_advantage,3550
+JADE MCR ADV,JADE MCR ADV,Jade Health,ANY,medicare_advantage,3544
+JADE-ALL OTHER PLANS,JADE-ALL OTHER PLANS,Jade Health,ANY,commercial,3544
+CCHP MCR ADV,CCHP MCR ADV,Chinese Community Health Plan,ANY,medicare_advantage,3544
+ANTHEM MCR ADV,ANTHEM MCR ADV,Anthem Blue Cross,ANY,medicare_advantage,3544
+ON LOK MCR ADV-ALL PLANS,ON LOK MCR ADV-ALL PLANS,On Lok,ANY,medicare_advantage,3544
+Humana,Humana Medicare Advantage,Humana,ANY,medicare_advantage,3542
+Canopy,Canopy Commercial,Canopy Health,ANY,commercial,3539
+FIRST HEALTH(COVENTRY)-ALL PLANS,FIRST HEALTH(COVENTRY)-ALL PLANS,First Health / Coventry,ANY,commercial,3539
+NETWORKS BY DESIGN - ALL PLANS,NETWORKS BY DESIGN - ALL PLANS,Networks By Design,ANY,commercial,3539
+INTEGRATED HEALTH PLAN-ALL PLANS,INTEGRATED HEALTH PLAN-ALL PLANS,Integrated Health Plan All Plans,ANY,commercial,3539
+KAISER-ALL PLANS,KAISER-ALL PLANS,Kaiser,ANY,commercial,3539
+HEALTHNET HMO/PPO-ALL OTHER PLANS,HEALTHNET HMO/PPO-ALL OTHER PLANS,Health Net,"PPO,HMO",commercial,3538
+BLUE CROSS HMO/PPO-ALL OTHER PLANS,BLUE CROSS HMO/PPO-ALL OTHER PLANS,Anthem Blue Cross,"PPO,HMO",commercial,3538
+COMM CARE NETWORK(CCN)-ALL PLANS,COMM CARE NETWORK(CCN)-ALL PLANS,Care Network(Ccn) All Plans,ANY,commercial,3538
+BPS-ALL PLANS,BPS-ALL PLANS,Bps All Plans,ANY,commercial,3538
+PREF HEALTH NETWORL(PHN)-ALL PLANS,PREF HEALTH NETWORL(PHN)-ALL PLANS,Pref Health Networl(Phn) All Plans,ANY,commercial,3538
+PHCS/MULTIPLAN/BEECH ST-ALL PLANS,PHCS/MULTIPLAN/BEECH ST-ALL PLANS,MultiPlan / PHCS,ANY,commercial,3538
+PPO ALLIANCE-ALL PLANS,PPO ALLIANCE-ALL PLANS,Ppo Alliance All Plans,PPO,commercial,3538
+BLUE SHIELD PPO-ALL PLANS,BLUE SHIELD PPO-ALL PLANS,Blue Shield of California,PPO,commercial,3538
+CHAMPUS-ALL PLANS,CHAMPUS-ALL PLANS,Tricare,ANY,other,3535
+VNPN - ALL PLANS,VNPN - ALL PLANS,Vnpn All Plans,ANY,commercial,3535
+Imperial Health Plan,Imperial Health Plan,Imperial Health Plan,ANY,commercial,3522
+MOLINA,MOLINA MARKETPLACE PROGRAM EXCHANGE,Covered California,ANY,exchange,3516
+Aetna Health Plans of California,Aetna Health Plan/Affinity,Aetna,ANY,commercial,3496
+United Healthcare,Secure Horizons (Pacificare)/Affinity,UnitedHealthcare,ANY,medicare_advantage,3471
+Aetna Health Plans of California,Aetna Health Plan/Hill,Aetna,ANY,commercial,3456
+Aetna,Transplant,Aetna,ANY,commercial,3326
+Blue Shield,Transplant,Blue Shield of California,ANY,commercial,3326
+Blue Cross,Anthem Transplant,Anthem Blue Cross,ANY,commercial,3326
+CANOPY OP ONLY,CANOPY OP ONLY,Canopy Health,ANY,commercial,3287
+MERITAGE MEDICAL NETWORK OP ONLY-ALL OTHER PLANS,MERITAGE MEDICAL NETWORK OP ONLY-ALL OTHER PLANS,Medi-Cal,ANY,medicaid,3287
+MERITAGE MEDICAL NETWORK OP ONLY MCARE,MERITAGE MEDICAL NETWORK OP ONLY MCARE,Medi-Cal,ANY,medicaid,3287
+Contra Costa Health Plan,All Commercial Plans,Contra Costa Health Plan,ANY,commercial,3243
+Alameda Alliance,Medi-Cal Managed Care Plan,Alameda Alliance,ANY,medicaid,3237
+California Medical Assistance Commission,Medi-Cal,Medi-Cal,ANY,medicaid,3181
+Cigna,Hmo/Pos,Cigna,"POS,HMO",commercial,3122
+Cigna,Ppo,Cigna,PPO,commercial,3122
+Healthnet,Medicaid Managed Care Plan,Health Net,ANY,medicaid,3093
+Inland Empire Health Plan,Medicaid Managed Care Plan,Medi-Cal,ANY,medicaid,3093
+Aetna,Commercial|PPO,Aetna,PPO,commercial,3063
+Aetna,Commercial|All Other Plans,Aetna,ANY,commercial,3063
+Aetna,Commercial|HMO,Aetna,HMO,commercial,3063
+BRIGHT HLTH/BRAND NEW DAY MCR ADV,BRIGHT HLTH/BRAND NEW DAY MCR ADV,Bright Hlth/Brand New Day Mcr Adv,ANY,medicare_advantage,2976
+BRIGHT HLTH/BRAND NEW DAY - ALL OTHER PLANDS,BRIGHT HLTH/BRAND NEW DAY - ALL OTHER PLANDS,Bright Hlth/Brand New Day All Other Plands,ANY,commercial,2976
+APCMG,Access Primary Care Medical Group Commercial,Medi-Cal,ANY,medicaid,2946
+APCMG,Access Primary Care Medical Group Senior,Medi-Cal,ANY,medicaid,2946
+Jade Medical Group,Commercial|All Plans,Jade Health,ANY,medicaid,2925
+UHC-ALL OTHER PLANS,UHC-ALL OTHER PLANS,UnitedHealthcare,ANY,commercial,2914
+Asian American Medical Group,All American Medical Group Medicare,Medicare,ANY,medicare,2883
+Blue Shield,HMO/PPO,Blue Shield of California,"PPO,HMO",commercial,2883
+Asian American Medical Group,All American Medical Group Commercial,Medi-Cal,ANY,medicaid,2883
+San Francisco Health Plan,Medi-Cal,San Francisco Health Plan,ANY,medicaid,2810
+SAN FRANCISCO HEALTH PLAN [4000],SFDPH SF HEALTH PLAN NON-CHN /CLN/SFN MEDI-CAL - SFGH,San Francisco Health Plan,ANY,medicaid,2737
+CANOPY BAY AREA ACCOUNTABLE CARE NTWRK (BAACN) - A,CANOPY BAY AREA ACCOUNTABLE CARE NTWRK (BAACN) - A,Bay Area Accountable Care,ANY,commercial,2728
+United,HMO / PPO,UnitedHealthcare,"PPO,HMO",commercial,2684
+GREAT WEST-ONE HEALTH PLAN PPO/POS-ALL PLANS,GREAT WEST-ONE HEALTH PLAN PPO/POS-ALL PLANS,Cigna,"POS,PPO",commercial,2624
+Blue Shield,SFHSS,Blue Shield of California,ANY,commercial,2586
+Chinese Hp,Hmo,Chinese Community Health Plan,HMO,commercial,2569
+Cigna,Medicare Managed Care Plan,Cigna,ANY,medicare_advantage,2310
+Corvel HealthCare,Corvel HealthCare WC,Workers Comp,ANY,other,2233
+Unitedhealthcare,Hmo/Pos,UnitedHealthcare,"POS,HMO",commercial,2212
+Multiplan,Phcs All Commercial Plans,MultiPlan / PHCS,ANY,commercial,2212
+Alameda Alliance,Ihss All Commercial Plans,Alameda Alliance,ANY,medicaid,2212
+Unitedhealthcare,Non-Hmo Other Commercial Plan,UnitedHealthcare,HMO,commercial,2212
+Partnership Health Plan,Medi-Cal Managed Care Plan,Partnership HealthPlan,ANY,medicaid,2212
+Interplan Health Group,All Commercial Plans,Interplan,ANY,commercial,2212
+Chinese Community Health Plan,All Commercial Plans,Chinese Community Health Plan,ANY,commercial,2212
+Central California Alliance For Health,Medi-Cal Managed Care Plan,Medi-Cal,ANY,medicaid,2212
+Sutter Health,All Commercial Plans,Sutter Health Plan,ANY,commercial,2212
+Western Health Advantage,All Commercial Plans,Western Health Advantage,ANY,medicare_advantage,2212
+Kaiser Permanente,Transplant,Kaiser,ANY,commercial,2212
+Healthnet,Hill Physicians Medical Group Hmo/Pos,Health Net,"POS,HMO",medicaid,2212
+On Lok,Medi-Cal Managed Care Plan,On Lok,ANY,medicaid,2212
+Contra Costa Health Plan,Medi-Cal Managed Care Plan,Contra Costa Health Plan,ANY,medicaid,2212
+Health Plan San Joaquin County,Medi-Cal Managed Care Plan,Medi-Cal,ANY,medicaid,2212
+Unitedhealthcare,Select/Select Plus Other Commercial Plan,UnitedHealthcare,ANY,commercial,2212
+Stanislaus County Partners In Health,All Commercial Plans,Stanislaus County Partners,ANY,other,2212
+Healthnet,Transplant,Health Net,ANY,commercial,2212
+Kaiser Permanente,All Commercial Plans,Kaiser,ANY,commercial,2212
+Unitedhealthcare,Apple Other Commercial Plan,UnitedHealthcare,ANY,commercial,2212
+Blue Cross,Anthem Medi-Cal Managed Care Plan,Anthem Blue Cross,ANY,medicaid,2212
+Optum,Transplant,UnitedHealthcare,ANY,commercial,2212
+Healthnet,Medi-Cal Managed Care Plan,Health Net,ANY,medicaid,2212
+Networks By Design,All Commercial Plans,Networks By Design,ANY,commercial,2212
+San Francisco Health Plan,Medi-Cal Managed Care Plan,San Francisco Health Plan,ANY,medicaid,2212
+Kaiser Permanente,Medi-Cal Managed Care Plan,Kaiser,ANY,medicaid,2212
+Health Plan Of San Mateo,Pediatric Only Medi-Cal Managed Care Plan,Health Plan of San Mateo,ANY,medicaid,2212
+Brown and Toland,Brown and Toland Health Services Medicare,Brown & Toland,ANY,medicare,2204
+PaficiCare,Secure Horizons,UnitedHealthcare,ANY,medicare_advantage,2202
+HealthNet Seniority Plus,HealthNet Seniority Plus,Health Net,ANY,medicare_advantage,2202
+Blue Cross of California,Blue Cross Medicare Advantage,Anthem Blue Cross,ANY,medicare_advantage,2202
+CORRECT CARE INTEG HEALTH-ALL PLANS,CORRECT CARE INTEG HEALTH-ALL PLANS,Correct Care Integ Health All Plans,ANY,commercial,2175
+EMPLOYER DIRECT HEALTHCARE-ALL PLANS,EMPLOYER DIRECT HEALTHCARE-ALL PLANS,Employer Direct Healthcare All Plans,ANY,commercial,2175
+CREATIVE LEGAL SERVICES-ALL PLANS,CREATIVE LEGAL SERVICES-ALL PLANS,Creative Legal Services All Plans,ANY,commercial,2175
+SCAN MCARE-ALL PLANS,SCAN MCARE-ALL PLANS,SCAN,ANY,medicare_advantage,2175
+ST JOSEPH HERITAGE HLTCARE MCR ADV,ST JOSEPH HERITAGE HLTCARE MCR ADV,St Joseph Heritage Hltcare Mcr Adv,ANY,medicare_advantage,2175
+Blue Cross,All Commercial Plans,Anthem Blue Cross,ANY,commercial,2172
+Partnership,Medicaid Managed Care Plan,Partnership HealthPlan,ANY,medicaid,2172
+MCAL MGD CARE (PHP)-ALL PLANS,MCAL MGD CARE (PHP)-ALL PLANS,Mcal Mgd Care (Php) All Plans,ANY,medicaid,2161
+PARTNERSHIP HEALTHPLAN-ALL PLANS,PARTNERSHIP HEALTHPLAN-ALL PLANS,Partnership HealthPlan,ANY,commercial,2160
+Aetna,Hmo / Ppo,Aetna,"PPO,HMO",commercial,2152
+Adventist Health System,All Commercial Plans,Adventist Health System,ANY,commercial,2138
+First Health/Coventry,First Health Ppo,First Health / Coventry,PPO,commercial,2138
+Caloptima,Medicaid Managed Care Plan,Medi-Cal,ANY,medicaid,2138
+Blue Cross,Medicaid Managed Care Plan,Anthem Blue Cross,ANY,medicaid,2138
+Aetna,Hmo,Aetna,HMO,commercial,2086
+Aetna,Ppo,Aetna,PPO,commercial,2086
+Phcs,All Commercial Plans,MultiPlan / PHCS,ANY,commercial,2086
+Health Plan Of San Mateo,Medicare Managed Care Plan,Health Plan of San Mateo,ANY,medicare_advantage,1974
+Wha,All Commercial Plans,Western Health Advantage,ANY,commercial,1850
+Wha,Medicare Managed Care Plan,Western Health Advantage,ANY,medicare_advantage,1848
+Providence Health Plan,Medicare Managed Care Plan,Providence Health Plan,ANY,medicare_advantage,1814
+Central Health Plan,Medicare Managed Care Plan,Central Health Plan,ANY,medicare_advantage,1803
+Cigna,HMO/PPO,Cigna,"PPO,HMO",commercial,1792
+Scan Health Plan,Medicare Managed Care Plan,SCAN,ANY,medicare_advantage,1770
+PROVIDER NETWORK OF AMERICA MEDICARE ADVANTAGE,PROVIDER NETWORK OF AMERICA MEDICARE ADVANTAGE,Provider Network Of America Medicare Advantage,ANY,medicare_advantage,1746
+CLOVER MEDICARE ADVANTAGE,CLOVER MEDICARE ADVANTAGE,Clover Medicare Advantage,ANY,medicare_advantage,1741
+CHOICE PHYSICIAN NETWORK IPA MEDICARE ADVANTAGE,CHOICE PHYSICIAN NETWORK IPA MEDICARE ADVANTAGE,Choice Physician Network Ipa Medicare Advantage,ANY,medicare_advantage,1736
+HILL PHYSICIANS MEDICARE ADVANTAGE,HILL PHYSICIANS MEDICARE ADVANTAGE,Hill Physicians,ANY,medicare_advantage,1731
+COMMONWEALTH CARE ALLIANCE MEDICARE ADVANTAGE,COMMONWEALTH CARE ALLIANCE MEDICARE ADVANTAGE,Commonwealth Care Alliance Medicare Advantage,ANY,medicare_advantage,1731
+ASTIVA HEALTH MEDICARE ADVANTAGE,ASTIVA HEALTH MEDICARE ADVANTAGE,Astiva Health Medicare Advantage,ANY,medicare_advantage,1731
+SCAN HEALTH PLAN MEDICARE ADVANTAGE,SCAN HEALTH PLAN MEDICARE ADVANTAGE,SCAN,ANY,medicare_advantage,1731
+CENTENE,CENTENE/HN/WELLCARE MEDICARE ADVANTAGE,Centene,ANY,medicare_advantage,1731
+ALIGNMENT HEALTH PLAN,ALIGNMENT HEALTH PLAN MEDICARE,Alignment,ANY,medicare_advantage,1731
+ESSENCE MEDICARE ADVANTAGE,ESSENCE MEDICARE ADVANTAGE,Essence Medicare Advantage,ANY,medicare_advantage,1731
+CLEVER CARE,CLEVER CARE MEDICARE ADVANTAGE,Clever Care,ANY,medicare_advantage,1731
+DEVOTED HEALTH MEDICARE ADVANTAGE,DEVOTED HEALTH MEDICARE ADVANTAGE,Devoted Health Medicare Advantage,ANY,medicare_advantage,1731
+SUTTER BAY HOSPITALS MEDICARE ADVANTAGE,SUTTER BAY HOSPITALS MEDICARE ADVANTAGE,Sutter Bay Hospitals Medicare Advantage,ANY,medicare_advantage,1731
+Aetna,HMO/PPO,Aetna,"PPO,HMO",commercial,1721
+Anthem,HMO/PPO,Anthem Blue Cross,"PPO,HMO",commercial,1713
+ST JOSEPH HERITAGE HLTCARE COMM-ALL OTHER PLANS,ST JOSEPH HERITAGE HLTCARE COMM-ALL OTHER PLANS,St Joseph Heritage Hltcare,ANY,commercial,1638
+HOSPICE OF MARIN-ALL PLANS,HOSPICE OF MARIN-ALL PLANS,Hospice Of Marin All Plans,ANY,commercial,1619
+VETERANS ADMIN-ALL PLANS,VETERANS ADMIN-ALL PLANS,Veterans Admin All Plans,ANY,other,1616
+TRICARE-ALL PLNAS,TRICARE-ALL PLNAS,Tricare,ANY,other,1616
+WELLPATH - ALL PLANS,WELLPATH - ALL PLANS,Wellpath All Plans,ANY,commercial,1616
+CHP - CORRECTIONAL HEALTH PARTNERS - ALL PLANS,CHP - CORRECTIONAL HEALTH PARTNERS - ALL PLANS,Chp Correctional Health Partners All Plans,ANY,commercial,1616
+CDCR PRISON-ALL PLANS,CDCR PRISON-ALL PLANS,Cdcr Prison All Plans,ANY,commercial,1616
+BLUE CROSS SENIOR,BLUE CROSS SENIOR,Anthem Blue Cross,ANY,medicare_advantage,1616
+THREE RIVERS (TRPN)-ALL PLANS,THREE RIVERS (TRPN)-ALL PLANS,Three Rivers (Trpn) All Plans,ANY,commercial,1616
+CANOPY HEALTH SOLUTIONS-ALL OTHER PLANS,CANOPY HEALTH SOLUTIONS-ALL OTHER PLANS,Canopy Health,ANY,commercial,1616
+Health Net,HMO/PPO,Health Net,"PPO,HMO",commercial,1615
+Aetna,HMO / PPO,Aetna,"PPO,HMO",commercial,1515
+MARIN GENERAL COMM/MCR ADV (WESTERN HLTH)-ALL PLAN,MARIN GENERAL COMM/MCR ADV (WESTERN HLTH)-ALL PLAN,Marin General /Mcr Adv (Western Hlth) All Plan,ANY,medicare_advantage,1368
+Molina Healthcare,Medicaid Managed Care Plan,Medi-Cal,ANY,medicaid,1249
+La Care Health Plan,Medicaid Managed Care Plan,Medi-Cal,ANY,medicaid,1249
+Anthem,Medicare Adv_ HMO / PPO,Anthem Blue Cross,"PPO,HMO",medicare_advantage,1171
+Blue Shield,Medicare Adv_ HMO / PPO,Blue Shield of California,"PPO,HMO",medicare_advantage,1171
+United,Medicare Adv_ HMO / PPO,UnitedHealthcare,"PPO,HMO",medicare_advantage,1171
+Cigna,Open Access Plus Ppo,Cigna,PPO,commercial,1114
+Valley Health Plan,Covered Ca Other Commercial Plan,Valley Health Plan,ANY,exchange,1114
+Optum,Urn Transplant,UnitedHealthcare,ANY,commercial,1114
+Health Plan Of San Mateo,Medi-Cal Managed Care Plan,Health Plan of San Mateo,ANY,medicaid,1114
+Cigna,Transplant,Cigna,ANY,commercial,1114
+Multiplan,Phcs/Beech Street Ppo,MultiPlan / PHCS,PPO,commercial,1114
+HealthNet,All Commercial Plans,Health Net,ANY,commercial,1111
+Chinese Community Health Plan,HMO,Chinese Community Health Plan,HMO,commercial,1105
+Chinese Community Health Plan,Individual,Chinese Community Health Plan,ANY,exchange,1105
+Blue Cross,Anthem Medicaid Managed Care Plan,Anthem Blue Cross,ANY,medicaid,1097
+Health Plan of San Mateo,Medi-Cal,Health Plan of San Mateo,ANY,medicaid,1092
+Health Plan of San Mateo,Medicare Adv_ HMO / PPO,Health Plan of San Mateo,"PPO,HMO",medicare_advantage,1087
+BLUE CROSS ANTHEM,BLUE CROSS ANTHEM MANAGED MEDI-CAL,Anthem Blue Cross,ANY,medicaid,1049
+AETNA,AETNA N CALIFORNIA PREFERRED PPO,Aetna,PPO,commercial,1049
+BLUE SHIELD,BLUE SHIELD PPO,Blue Shield of California,PPO,commercial,1049
+BLUE CROSS ANTHEM,BLUE CROSS ANTHEM OUT OF STATE PPO,Anthem Blue Cross,PPO,commercial,1049
+SCAN HEALTH PLAN,SCAN HEALTH PLAN MEDICARE ADVANTAGE,SCAN,ANY,medicare_advantage,1049
+VALLEY HEALTH PLAN,VALLEY HEALTH PLAN COVERED CA HMO,Valley Health Plan,HMO,exchange,1049
+HEALTHNET,HEALTHNET COVERED CA PPO,Health Net,PPO,exchange,1049
+ALIGNMENT HEALTH PLAN,ALIGNMENT HEALTH PLAN MEDICARE ADVANTAGE,Alignment,ANY,medicare_advantage,1049
+HEALTH PLAN OF SAN MATEO,HEALTH PLAN OF SAN MATEO MANAGED MEDI-CAL,Health Plan of San Mateo,ANY,medicaid,1049
+PRIVATE HEALTHCARE SYSTEMS PHCS,PHCS PPO,MultiPlan / PHCS,PPO,commercial,1049
+HEALTHNET,HEALTHNET HMO,Health Net,HMO,commercial,1049
+AETNA,AETNA PPO,Aetna,PPO,commercial,1049
+TRICARE,TRIWEST - VETERANS CHOICE PROGRAM,Tricare,ANY,other,1049
+VALLEY HEALTH PLAN,VALLEY HEALTH PLAN HMO,Valley Health Plan,HMO,commercial,1049
+CARE ADVANTAGE,CARE ADVANTAGE MEDICARE ADVANTAGE HEALTH PLAN SAN MATEO,Health Plan of San Mateo,ANY,medicare_advantage,1049
+TRICARE,TRICARE WEST REGION,Tricare,ANY,other,1049
+HEALTHNET,HEALTHNET HMO POS,Health Net,"POS,HMO",commercial,1049
+UNITED HEALTHCARE,UNITED HEALTHCARE MEDICARE ADVANTAGE,UnitedHealthcare,ANY,medicare_advantage,1049
+HEALTHNET,HEALTHNET PPO,Health Net,PPO,commercial,1049
+UNITED HEALTHCARE,UNITED HEALTHCARE CORE PPO,UnitedHealthcare,PPO,commercial,1049
+BLUE CROSS ANTHEM,BLUE CROSS ANTHEM MEDICARE ADVANTAGE DUAL ADVANTAGE D-SNP,Anthem Blue Cross,ANY,medicare_advantage,1049
+BLUE SHIELD,BLUE SHIELD OUT OF STATE PPO,Blue Shield of California,PPO,commercial,1049
+BLUE CROSS ANTHEM,BLUE CROSS ANTHEM PPO,Anthem Blue Cross,PPO,commercial,1049
+BLUE SHIELD,BLUE SHIELD COVERED CA HMO,Blue Shield of California,HMO,exchange,1049
+HEALTHNET,HEALTHNET MEDICARE ADVANTAGE,Health Net,ANY,medicare_advantage,1049
+VALLEY HEALTH PLAN,VALLEY HEALTH PLAN MANAGED MEDI-CAL,Valley Health Plan,ANY,medicaid,1049
+CIGNA,GREAT WEST PPO,Cigna,PPO,commercial,1049
+SANTA CLARA FAMILY HEALTH PLAN,SCFHP MANAGED MEDI-CAL,Santa Clara Family Health Plan,ANY,medicaid,1049
+SANTA CLARA FAMILY HEALTH PLAN,SCFHP DUAL CONNECT MEDICARE ADVANTAGE,Santa Clara Family Health Plan,ANY,medicare_advantage,1049
+SANTA CLARA FAMILY HEALTH PLAN,SANTA CLARA FAMILY HEALTH PLAN MEDICARE ADVANTAGE CAL MEDI-CONNECT,Santa Clara Family Health Plan,ANY,medicare_advantage,1049
+BLUE SHIELD,BLUE SHIELD CALPERS HMO,Blue Shield of California,HMO,commercial,1049
+BLUE SHIELD,BLUE SHIELD HMO,Blue Shield of California,HMO,commercial,1049
+AETNA,AETNA HMO,Aetna,HMO,commercial,1049
+UNITED HEALTHCARE,UNITED HEALTHCARE PPO,UnitedHealthcare,PPO,commercial,1049
+BLUE SHIELD,BLUE SHIELD COVERED CA PPO,Blue Shield of California,PPO,exchange,1049
+CIGNA,CIGNA HMO,Cigna,HMO,commercial,1049
+CENTRAL HEALTH PLAN,CENTRAL HEALTH PLAN SR HMO,Central Health Plan,HMO,commercial,1049
+UNITED HEALTHCARE,UNITED HEALTHCARE ALLIANCE HMO,UnitedHealthcare,HMO,commercial,1049
+BLUE CROSS ANTHEM,BLUE CROSS ANTHEM MEDICARE ADVANTAGE,Anthem Blue Cross,ANY,medicare_advantage,1049
+BLUE SHIELD,BLUE SHIELD CALPERS PPO,Blue Shield of California,PPO,commercial,1049
+CENTRAL HEALTH PLAN,CENTRAL HEALTH PLAN MEDICARE ADVANTAGE,Central Health Plan,ANY,medicare_advantage,1049
+SUTTER,SUTTER HEALTH PLUS HMO,Sutter Health Plan,HMO,commercial,1049
+SUTTER,SUTTER SELECT PPO,Sutter,PPO,commercial,1049
+UNITED HEALTHCARE,UNITED HEALTHCARE SELECT PPO,UnitedHealthcare,PPO,commercial,1049
+UNITED HEALTHCARE,UNITED HEALTHCARE HMO,UnitedHealthcare,HMO,commercial,1049
+TRICARE,VETERANS ADMINISTRATION HOSPITAL,Tricare,ANY,other,1049
+COVENTRY,COVENTRY FIRST HEALTH PPO,First Health / Coventry,PPO,commercial,1049
+AETNA,AETNA MEDICARE ADVANTAGE,Aetna,ANY,medicare_advantage,1049
+BLUE CROSS ANTHEM,BLUE CROSS ANTHEM COVERED CA PPO,Anthem Blue Cross,PPO,exchange,1049
+BLUE CROSS ANTHEM,BLUE CROSS ANTHEM HMO,Anthem Blue Cross,HMO,commercial,1049
+MULTIPLAN,MULTIPLAN PPO,MultiPlan / PHCS,PPO,commercial,1049
+HUMANA,HUMANA MEDICARE ADVANTAGE,Humana,ANY,medicare_advantage,1049
+BLUE SHIELD,BLUE SHIELD MEDICARE ADVANTAGE,Blue Shield of California,ANY,medicare_advantage,1049
+Central Health Plan,Medicare Adv_ HMO / PPO,Central Health Plan,"PPO,HMO",medicare_advantage,1037
+Contra Costa Health Plan,Medicaid Managed Care Plan,Contra Costa Health Plan,ANY,medicaid,1031
+San Mateo,Medicaid Managed Care Plan,Health Plan of San Mateo,ANY,medicaid,1031
+Kaiser,Medicaid Managed Care Plan,Kaiser,ANY,medicaid,1031
+Blue Shield,All Commercial Plans,Blue Shield of California,ANY,commercial,1031
+Sutter East Bay Medical Foundation,Other Noncommercial,Medi-Cal,ANY,medicaid,1031
+San Joaquin,Medicaid Managed Care Plan,Medi-Cal,ANY,medicaid,1031
+Central California Alliance For Health,Medicaid Managed Care Plan,Medi-Cal,ANY,medicaid,1031
+Alameda Alliance,Medi-Cal/Ihss Medicaid Managed Care Plan,Alameda Alliance,ANY,medicaid,1031
+Blue Shield,Epn Other Commercial Plan,Blue Shield of California,ANY,exchange,1031
+BLUE CROSS/BLUE SHIELD,BLUE CROSS MEDI-CAL,Anthem Blue Cross,ANY,medicaid,1030
+BLUE CROSS/BLUE SHIELD,BLUE SHIELD PROMISE MEDI-CAL,Blue Shield of California,ANY,medicaid,1028
+HealthNet,Wellcare Medicare Managed Care Plan,Health Net,ANY,medicare_advantage,1025
+UnitedHealthCare,Medicare Managed Care Plan,UnitedHealthcare,ANY,medicare_advantage,975
+Partnership Healthplan,Medicaid Managed Care Plan,Partnership HealthPlan,ANY,medicaid,955
+Cal Optima,Medicaid Managed Care Plan,Medi-Cal,ANY,medicaid,955
+PARTNERSHIP HEALTH PLAN [5016],SFDPH PARTNERSHIP HEALTH PLAN MANAGED CARE CONTRACT,Partnership HealthPlan,ANY,commercial,904
+Devoted Health,Medicare Managed Care Plan,Devoted Health,ANY,medicare_advantage,900
+CANOPY HEALTH COMMERCIAL HMO [1012],SFDPH CANOPY CONTRACT,Canopy Health,HMO,commercial,828
+Vitas Healthcare Hospice,COMM,Vitas Healthcare Hospice,ANY,commercial,772
+MultiPlan,WC,Workers Comp,ANY,other,771
+Caremore,Medicare Managed Care Plan,Caremore,ANY,medicare_advantage,770
+Molina Healthcare,Medicare Managed Care Plan,Molina Healthcare,ANY,medicare_advantage,770
+Hospice of the Valley,COMM,Hospice Of The Valley,ANY,commercial,770
+Brand New Day,Medicare Managed Care Plan,Brand New Day,ANY,medicare_advantage,770
+Inland Empire Health Plan,Medicare Managed Care Plan,Inland Empire Health Plan,ANY,medicare_advantage,770
+CIGNA,PB CIGNA HMO PLANS,Cigna,HMO,commercial,736
+HEALTHNET SENIOR,HEALTHNET SENIOR,Health Net,ANY,medicare_advantage,703
+OPTUM,PB OPTUM HEALTH ALT PLANS,UnitedHealthcare,ANY,commercial,652
+OPTUM,PB OPTUM CHD ALT PLANS,UnitedHealthcare,ANY,commercial,652
+PACIFICARE (MIPA)-ALL PLANS,PACIFICARE (MIPA)-ALL PLANS,UnitedHealthcare,ANY,commercial,600
+CIGNA,CIGNA PPO PLANS,Cigna,PPO,commercial,577
+SAN FRANCISCO HEALTH PLAN - NON-CHN [5031],SFDPH SF HEALTH PLAN NON-CHN /CLN/SFN MEDI-CAL - SFGH,San Francisco Health Plan,ANY,medicaid,459
+BLUE SHIELD,PB BLUE SHIELD PLAN,Blue Shield of California,ANY,commercial,449
+BLUE SHIELD,PB BLUE SHIELD COVERED CA IFP PLAN,Blue Shield of California,ANY,exchange,446
+Progyny,Other Commercial Plan,Progyny,ANY,commercial,434
+BROWN AND TOLAND OP ONLY - ALL PLANS,BROWN AND TOLAND OP ONLY - ALL PLANS,Brown & Toland,ANY,commercial,401
+Blue Cross,Narrow Netwok Other Commercial Plan,Anthem Blue Cross,ANY,commercial,394
+Kaiser,Radiation Therapy All Commercial Plans,Kaiser,ANY,commercial,394
+CIGNA,PB CIGNA PPO PLANS,Cigna,PPO,commercial,368
+Blue Shield,Promise Medicaid Managed Care Plan,Blue Shield of California,ANY,medicaid,360
+BLUE CROSS,LPCH PB BLUE CROSS CONTRACT,Anthem Blue Cross,ANY,commercial,326
+UNITED HEALTHCARE,PB UHC PLANS,UnitedHealthcare,ANY,commercial,326
+AETNA,PB AETNA CONTRACT,Aetna,ANY,commercial,326
+Healthsmart/Interplan,All Commercial Plans,Interplan,ANY,commercial,308
+Chinese Hp,Individual,Chinese Community Health Plan,ANY,exchange,301
+M-CAL (EDS) IP ONLY - ALL PLANS,M-CAL (EDS) IP ONLY - ALL PLANS,M Cal (Eds) Ip Only All Plans,ANY,commercial,252
+MARIN GENERAL COMM/MCR ADV (WESTERN HLTH)-ALL PLANS,MARIN GENERAL COMM/MCR ADV (WESTERN HLTH)-ALL PLANS,Marin General /Mcr Adv (Western Hlth) All Plans,ANY,medicare_advantage,248
+BY THE BAY HEALTH IP ONLY - ALL PLANS,BY THE BAY HEALTH IP ONLY - ALL PLANS,By The Bay Health Ip Only All Plans,ANY,commercial,247
+UHC MCARE,UHC MCARE,UnitedHealthcare,ANY,commercial,244
+Gold Coast Health Plan,Medicaid Managed Care Plan,Medi-Cal,ANY,medicaid,230
+MAGELLAN MCARE IP ONLY,MAGELLAN MCARE IP ONLY,Magellan Mcare Ip Only,ANY,commercial,228
+COVENTRY/FIRST HEALTH-ALL PLANS,COVENTRY/FIRST HEALTH-ALL PLANS,First Health / Coventry,ANY,commercial,228
+HP OF SAN MATEO HEALTH KIDS/HEALTH WORX-ALL OTHER PLANS,HP OF SAN MATEO HEALTH KIDS/HEALTH WORX-ALL OTHER PLANS,Health Plan of San Mateo,ANY,medicaid,224
+Health Net,Medicare Adv_ HMO / PPO,Health Net,"PPO,HMO",medicare_advantage,218
+TRICARE,CHAMPVA,Tricare,ANY,other,160
+TRICARE,VETERANS EVALUATION SERVICES,Tricare,ANY,other,160
+COMMONWEALTH CARE ALLIANCE,COMMONWEALTH CARE ALLIANCE MEDICARE ADVANTAGE,Commonwealth Care Alliance,ANY,medicare_advantage,160
+NETWORKS BY DESIGN,NETWORKS BY DESIGN PPO,Networks By Design,PPO,commercial,160
+BEECH STREET,BEECH STREET PPO,Beech Street,PPO,commercial,160
+BLUE CROSS ANTHEM,BLUE CROSS ANTHEM AIM,Anthem Blue Cross,ANY,commercial,160
+TRICARE,TRICARE EAST,Tricare,ANY,other,160
+CIGNA,CIGNA MEDICARE ADVANTAGE,Cigna,ANY,medicare_advantage,160
+VITALITY,VITALITY MEDICARE ADVANTAGE,Vitality,ANY,medicare_advantage,160
+UNITED HEALTHCARE,UNITED HEALTHCARE NAVIGATE PPO,UnitedHealthcare,PPO,commercial,160
+TRICARE,TRICARE FOR LIFE,Tricare,ANY,other,160
+HEALTHSMART INTERPLAN,HEALTHSMART INTERPLAN PPO,Interplan,PPO,commercial,160
+HEALTHNET,HEALTHNET SMARTCARE HMO,Health Net,HMO,commercial,160
+BLUE CROSS ANTHEM,BLUE CROSS ANTHEM COVERED CA HMO,Anthem Blue Cross,HMO,exchange,160
+SANTA CLARA IPA,BLUE SHIELD MEDICARE ADVANTAGE,Blue Shield of California,ANY,medicare_advantage,160
+BLUE CROSS ANTHEM,BLUE CROSS ANTHEM MEDICARE ADVANTAGE CAL-MEDICONNECT,Anthem Blue Cross,ANY,medicare_advantage,160
+UNITED HEALTHCARE,UNITED HEALTHCARE CARE IMPROVEMENT PLUS,UnitedHealthcare,ANY,commercial,159
+Unitedhealthcare,Medicaid Managed Care Plan,UnitedHealthcare,ANY,medicaid,152
+Unitedhealthcare,Behavioral Health Plan,UnitedHealthcare,ANY,other,144
+Interplan Health Group,Ppo,Interplan,PPO,commercial,144
+Magellan Health,Behavioral Health Plan,Magellan Health,ANY,other,144
+Interplan,All Commercial Plans,Interplan,ANY,commercial,142
+Humana,Medicare Adv_ HMO / PPO,Humana,"PPO,HMO",medicare_advantage,140
+Multiplan,PHCS/Beech Street PPO,MultiPlan / PHCS,PPO,commercial,136
+HILL PHYSICANS PROFEE ONLY MCAL,HILL PHYSICANS PROFEE ONLY MCAL,Hill Physicans Profee Only Mcal,ANY,medicaid,89
+HealthSmart/Interplan,All Commercial Plans,Interplan,ANY,commercial,86
+WHA,All Commercial Plans,Western Health Advantage,ANY,commercial,86
+HealthNet,Medicare Managed Care Plan,Health Net,ANY,medicare_advantage,86
+WHA - ASC,Capitated,Western Health Advantage,ANY,commercial,86
+Partnership - ASC,Medicaid Managed Care Plan,Partnership HealthPlan,ANY,medicaid,86
+UnitedHealthCare - ASC,All Commercial Plans,UnitedHealthcare,ANY,commercial,86
+PHCS,All Commercial Plans,MultiPlan / PHCS,ANY,commercial,86
+Blue Cross - ASC,All Commercial Plans,Anthem Blue Cross,ANY,commercial,86
+WHA - ASC,All Commercial Plans,Western Health Advantage,ANY,commercial,86
+Blue Shield - ASC,All Commercial Plans,Blue Shield of California,ANY,commercial,86
+WHA,Medicare Managed Care Plan,Western Health Advantage,ANY,medicare_advantage,86
+HILL PHYSICIANS PROFEE ONLY COMM-ALL OTHER PLANS,HILL PHYSICIANS PROFEE ONLY COMM-ALL OTHER PLANS,Hill Physicians,ANY,commercial,78
+Health Plan Of San Joaquin,Medi-Cal,Medi-Cal,ANY,medicaid,72
+HILL PHYSICANS PROFEE ONLY MCARE,HILL PHYSICANS PROFEE ONLY MCARE,Hill Physicans Profee Only Mcare,ANY,commercial,69
+Molina,Medicaid Managed Care Plan,Medi-Cal,ANY,medicaid,66
+Health Net,Hmo/Pos/Ppo,Health Net,"POS,PPO,HMO",commercial,66
+Scan,Medicare Managed Care Plan,SCAN,ANY,medicare_advantage,66
+La Care,Medicaid Managed Care Plan,Medi-Cal,ANY,medicaid,66
+United,HMO/PPO,UnitedHealthcare,"PPO,HMO",commercial,60
+Chinese HP,HMO,Chinese Community Health Plan,HMO,commercial,47
+NAPA COUNTY MCAL CHILD,NAPA COUNTY MCAL CHILD,Napa County Mcal Child,ANY,medicaid,47
+NAPA COUNTY MCAL ADULT,NAPA COUNTY MCAL ADULT,Napa County Mcal Adult,ANY,medicaid,47
+Alignment Health Plan,Medicare Adv_ HMO / PPO,Alignment,"PPO,HMO",medicare_advantage,40
+BLUE CROSS/BLUE SHIELD,BLUE CROSS EXCHANGE,Anthem Blue Cross,ANY,exchange,28
+BLUE CROSS/BLUE SHIELD,BLUE CROSS MCS,Anthem Blue Cross,ANY,commercial,28
+BLUE CROSS/BLUE SHIELD,BLUE CROSS SELECT PPO,Anthem Blue Cross,PPO,commercial,28
+BLUE CROSS/BLUE SHIELD,BLUE CROSS NONMCS,Anthem Blue Cross,ANY,commercial,28
+California Transplant Donor COMM,TIERIII,California Transplant Donor,ANY,commercial,27
+California Transplant Donor COMM,TIERII,California Transplant Donor,ANY,commercial,27
+California Transplant Donor COMM,TIERI,California Transplant Donor,ANY,commercial,27
+Chinese HP,Individual,Chinese Community Health Plan,ANY,exchange,24
+Health Plan of San Joaquin,Medi-Cal,Medi-Cal,ANY,medicaid,24
+CIGNA BEHAVIORAL HEALTH,CIGNA BEHAVIORAL HEALTH,Cigna,ANY,other,24
+NAPA COUNTY SD ADULT - ALL OTHER PLANS,NAPA COUNTY SD ADULT - ALL OTHER PLANS,Napa County Sd Adult,ANY,other,16
+NAPA COUNTY SD CHILD,NAPA COUNTY SD CHILD,Napa County Sd Child,ANY,other,16
+MHN,Managed Health Network (Health Net) Commercial,Health Net,ANY,commercial,15
+MAGELLAN IP ONLY - ALL OTHER PLANS,MAGELLAN IP ONLY - ALL OTHER PLANS,Magellan Ip Only,ANY,commercial,15
+Magellan BH,COMM,Magellan Bh,ANY,commercial,14
+NMSS SAN FRANCISCO HEALTH NETWORK [5050],NMSS SFHN ACUTE MCALMC [505001],Nmss San Francisco Health Network [5050],ANY,commercial,12
+SANTA CLARA CNTY OF SHASTA MCAL IP/PROFEE ONLY-ALL PLANS,SANTA CLARA CNTY OF SHASTA MCAL IP/PROFEE ONLY-ALL PLANS,Santa Clara Cnty Of Shasta Mcal Ip/Profee Only All Plans,ANY,medicaid,11
+AETNA,AETNA SIGNATURE PRODUCT,Aetna,ANY,commercial,5
+SANTA CLARA CNTY OF SHASTA MCAL IP/PROFEE ONLY-ALL,SANTA CLARA CNTY OF SHASTA MCAL IP/PROFEE ONLY-ALL,Santa Clara Cnty Of Shasta Mcal Ip/Profee Only All,ANY,medicaid,5
+Magellan Health,Commercial,Magellan Health,ANY,commercial,5
+KAISER MEDICARE ADVANTAGE,KAISER MEDICARE ADVANTAGE,Kaiser,ANY,medicare_advantage,5
+AETNA,AETNA NATIONAL ADVANTAGE PROGRAM,Aetna,ANY,medicare_advantage,5
+United Behavioral Health,MCR,UnitedHealthcare,ANY,other,3
+United Behavioral Health,COMM,UnitedHealthcare,ANY,other,3
+UNITED BH ,COMM,UnitedHealthcare,ANY,commercial,3
+LPCH,Commercial|All Plans,Lpch,ANY,commercial,1
